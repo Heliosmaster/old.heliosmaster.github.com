@@ -122,4 +122,7 @@ Il risultato, è molto semplice:
 
  	Il blog sarà sia in lingua inglese che in lingua italiana. Ah, non l'ho detto? Con Jekyll è facilissimo dividere le pagine in base alla lingua usata (a dir la verità non uso nessun concetto di Jekyll in particolare, ma taggherò i post in italiano con 'italiano' e i post in inglese con 'english', e semplicemente divido per tag). Voglio provare a bloggare anche in inglese, senza limitarmi però a quello. La pagina iniziale sarà forse (non ho ancora deciso al 100%) un miscuglio di lingue, ma non mi preoccupo più di tanto. Il bello di Jekyll, comunque, è che il codice è molto semplice ed eventuali miglioramenti / sistemazioni / cambiamenti (anche radicali) si fanno in tutta facilità. Pertanto, voglio avere un approccio _agile_: iniziamo e poi vediamo come si evolvono le cose (ricordiamo anche il motto "fare quello che serve", e di verificare l'effettiva necessità di tutte queste cose, rapportate ai miei due lettori).
 
-E chissà, magari ne esce anche qualcosa di decente...
+
+Per chi invece non ha voglia di leggermi sul blog ma tramite un feed, comunico che ho sia aggiornato il vecchio (<http://feeds.feedburner.com/Heliosmaster>), ma che il feed di questa "rinascita" è <http://feeds.feedburner.com/davidetaviani>.
+
+E chissà, magari alla fine ne esce anche qualcosa di decente...
