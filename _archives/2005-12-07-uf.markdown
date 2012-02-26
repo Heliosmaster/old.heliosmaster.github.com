@@ -1,0 +1,9 @@
+---
+layout: post
+title: Uf
+wordpress_id: 607
+wordpress_url: http://blog.andvari.it/?p=607
+tags: italiano
+date: 2005-12-07 16:01:27.000000000 +01:00
+---
+<div class="boxblog">Oggi sono + triste che mai..non so che fare..non so che fare di me...non so che fare di questo blog...     <!--     <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"        xmlns:dc="http://purl.org/dc/elements/1.1/"       xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"> <rdf :Description rdf:about="http://helios.splinder.com/post/6513919"       dc:identifier="http://helios.splinder.com/post/6513919"       dc:title=""       dc:subject="sleepy,lonely,thoughtful"       trackback:ping="http://www.splinder.com/trackback/6513919" />  --></div>

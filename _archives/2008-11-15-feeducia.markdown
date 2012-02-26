@@ -1,0 +1,31 @@
+---
+layout: post
+title: Feeducia
+wordpress_id: 1247
+wordpress_url: http://blog.andvari.it/?p=1247
+tags: italiano
+date: 2008-11-15 16:19:35.000000000 +01:00
+---
+Feetags: italiano
+datevi ((La battuta non è proprio nuovissima, dato che è uno slogan di <a href="http://bonny-ed.blogspot.com/">Bonny-Ed</a>)) di me, e non vi annoierete mai (dopotutto uno così idiota dove si trova).
+
+Seriamente, forse dovrei lasciare da parte le mie manie di protagonismo (non si nota che parlo sempre alla seconda persona plurale come se fossi il conduttore di un Talk-Show? Come dite? Pensavate che fossi schizofrenico? Beh magari non vi sbagliate poi di così tanto) e cominciare a fare il serio, ma è più forte di me.
+
+Questo post vuole essere una sorta di annuncio di grandi novità (allorché a questa espressione si sarebbe pienamente legittimati a chiudere la pagina, perché appare quantomeno ovvio un "che novità vuoi che abbia questo cialtrone?", al quale fa sicuramente compagnia l'espressione "novità?! Aiuto! Già faceva pena prima, figuriamoci dopo!" seguito da una bella maledizione sulla mia persona). Non fa niente, ci sono abituato (più o meno, forse sì forse nò, non dire gatto finché non.. ehm forse mi sto facendo prendere la mano).
+
+Vabbé, bando alle ciance (e cianco alle bande, come direbbe il prof. Alberto) dopo questa mirabolante orpelleria che sono stato in grado di costruire senza disquisire di assolutamente una benemerita, specialità che mi vede fra i primatisti mondiali, perché, come direbbe Geppy, sono un "abile venditore del nulla", devo assolutamente rifarmi e sarò quantomeno scarno e schematico nelle seguenti annunciaziò-annunciazioni. Quindi ci metterei proprio una bella riga.
+
+<hr />Caspita, come ci sta proprio bene questa riga qua sopra, vero? Sembra quasi che sia fatta apposta per dividere elegantemente il serio dal faceto in questo post. Sembra forse che questo post sia fatto apposta per contenere questa riga e forse chi lo sa, quella riga può essere interpretata come la versione grafica della risposta alla domanda fondamentale, ovvero 42.
+
+Se aveste seguito il mio discorso del post precedente, ovvero se vi foste abbonati al feed, forse non ci sarebbe bisogno di tutta questa tiritera, perché ricevereste tutto a casa in piccole e comode rate ((come insegnava il caro buon Giorgio Mastrota)). Però visto che sono praticamente sicuro che nessuno di voi lo faccia (Feedburner dice che ci sono 13 abbonati, ma posso mettere la mano sul fuoco che la metà di queste 13 persone sia io, che ho aggiunto (in tempi diversi) il mio feed in diversi aggregatori). Vabbé, visto che in un modo o in un altro continuo a tergiversare ecco le news importanti:
+<ul>
+	<li>Esiste un nuovo posto per i miei deliri ((dovrebbe essere qualcosa a mo' di <a href="http://phonkmeister.com">Phonkmeister</a>, solo un po' meno figo )). <a href="http://skoll.andvari.it">I deliri di Helios</a>, per l'appunto. Il perché dell'URL è una cosa complicata che ha a che fare con la mitologia norrena e so sicuramente che non ve ne frega nulla, indipercui evito.</li>
+	<li>Avevo provat ad avere tutto in un unico Feed RSS, ma ho avuto modo di appurare che il tutto non sia molto efficiente. Quindi ci sono 2 feed:</li>
+<blockquote>
+	<li><a href="http://feeds.feedburner.com/Helios">http://feeds.feedburner.com/Helios</a></li>
+	<li><a href="http://feeds.feedburner.com/Helios/deliri">http://feeds.feedburner.com/Helios/deliri</a></li>
+</blockquote>
+</ul>
+Cosa dovete fare?
+
+È semplice! Aggiungete nel vostro feedreader il secondo link (e il primo se non l'avete ancora fatto)

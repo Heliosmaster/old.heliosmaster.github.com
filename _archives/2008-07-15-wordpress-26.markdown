@@ -1,0 +1,17 @@
+---
+layout: post
+title: Wordpress 2.6
+wordpress_id: 660
+wordpress_url: http://blog.andvari.it/?p=660
+tags: italiano
+date: 2008-07-15 13:18:10.000000000 +02:00
+---
+Ho aggiornato la piattaforma di blogging all'ultima versione uscita e non posso fare a meno di apprezzare tutte le novità, alcune rilevanti e altre minori. Mi fa piacere che anche il prodotto in italiano di WP sia diventato qualcosa di più serio, con il sito http://it.wordpress.org
+
+Vabbé, tutto ciò non cambierà nulla nella mia esperienza di blogging, perlomeno per chi legge.
+
+Ah, sto cercando un nuovo dominio (magari NON .it) perché mi sono stufato di TopHost, stavo pensando a NetSons..mah!
+
+(Manterrò comunque andvari.it e il blog a questo indirizzo)
+
+Idee per il dominio?

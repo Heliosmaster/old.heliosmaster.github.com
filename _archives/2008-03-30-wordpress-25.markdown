@@ -1,0 +1,11 @@
+---
+layout: post
+title: Wordpress 2.5
+wordpress_id: 348
+wordpress_url: http://blog.andvari.it/?p=348
+tags: italiano
+date: 2008-03-30 11:38:25.000000000 +02:00
+---
+Ho appena aggiornato il software col quale bloggo, wordpress, alla versione 2.5
+
+È una figata pazzesca, soprattutto con <a href="http://deanjrobinson.com/projects/fluency-admin/">questo tema</a> per la dashboard.

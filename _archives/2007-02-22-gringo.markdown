@@ -1,0 +1,10 @@
+---
+layout: post
+title: Gringo
+wordpress_id: 641
+wordpress_url: http://blog.andvari.it/?p=641
+tags: italiano
+date: 2007-02-22 16:22:18.000000000 +01:00
+---
+<blockquote><em>Quando un uomo con la pistola incontra un uomo col fucile, quello con la pistola è un uomo morto</em></blockquote>
+Clint Eastwood - Per un pugno di dollari

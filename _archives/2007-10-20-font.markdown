@@ -1,0 +1,13 @@
+---
+layout: post
+title: Font
+wordpress_id: 32
+wordpress_url: http://blog.andvari.it/2007/10/20/font/
+tags: italiano
+date: 2007-10-20 14:33:03.000000000 +02:00
+---
+Dannazione, non riesco a sistemare i fonts di Firefox. La cosa mi irrita alquanto perché ero abituato a vedere internet in un certo modo ecambiare il carattere è come se rendesse questo mondo sconosciuto.
+
+Non c'è modo che io veda come prima.
+
+Damn

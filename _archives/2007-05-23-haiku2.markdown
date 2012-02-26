@@ -1,0 +1,12 @@
+---
+layout: post
+title: Haiku/2
+wordpress_id: 318
+wordpress_url: http://blog.andvari.it/2007/05/23/haiku2/
+tags: italiano
+date: 2007-05-23 23:17:36.000000000 +02:00
+---
+
+<blockquote>Grandi diamanti
+rischiarano la notte.
+Cielo stellato</blockquote>

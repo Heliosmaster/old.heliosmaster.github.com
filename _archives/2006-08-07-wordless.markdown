@@ -1,0 +1,9 @@
+---
+layout: post
+title: Wordless
+wordpress_id: 1029
+wordpress_url: http://blog.andvari.it/?p=1029
+tags: italiano
+date: 2006-08-07 02:06:14.000000000 +02:00
+---
+Nessuno sopravviverà al crepuscolo. Peggio per gli stolti uomini come me.

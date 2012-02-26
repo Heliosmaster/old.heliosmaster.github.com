@@ -1,0 +1,24 @@
+---
+layout: post
+title: Domini
+wordpress_id: 1846
+wordpress_url: http://blog.andvari.it/?p=1846
+tags: italiano
+date: 2010-11-26 15:24:41.000000000 +01:00
+---
+Ci sono volte in cui mi pento di aver scelto andvari.it : è un bel nome, almeno secondo me, per i tutti suoi molteplici significati, che si possono trovare nella <a href="http://www.andvari.it">home</a>, però, in questi momenti, i <em>drawback</em> (i contro) sembrano molto più dei pro:
+<ol>
+	<li>Non mi descrive. Andvari non è il mio nickname e non sono io.</li>
+	<li>le due consonanti di seguito (ho speso 3 minuti per fare una ricerca della parola adatta in fonetica, ma non l'ho trovata) n e d in a<strong>nd</strong>vari, hanno una pronuncia orribile. Rallentano la parola e non danno l'idea di qualcosa di veloce e immediato, ma qualcosa di complicato</li>
+</ol>
+Ho recentemente avuto una buona idea per il mio buon amico informatico, facendolo migrare da rubboli.it a rubbo.li , catapultandomi così nel <em>domain hack. </em>E, insieme, anche nello sconforto.
+
+Sì perché i TLD (top level domain) sono in un numero limitato, e nessuno di loro mi va bene. La cosa migliore sarebbe stato heli.os, da registrare, ma non esiste nessun tld (neanche regionale) che si chiama .os .
+
+E stesso discorso per tutto quello che può riguardarmi. (Neanche a pensare davi.de, eh!)
+
+E così ritorna il problema che si era paventato quando è stata l'ora di scegliermi un dominio, niente Helios, da nessuna parte.
+
+Che fare? Rimanere? Andare?
+
+Nel frattempo, andvari.it è tutto quel che c'è.

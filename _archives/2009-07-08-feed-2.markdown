@@ -1,0 +1,22 @@
+---
+layout: post
+title: Feed
+wordpress_id: 1534
+wordpress_url: http://blog.andvari.it/?p=1534
+tags: italiano
+date: 2009-07-08 12:11:51.000000000 +02:00
+---
+Bah, comunque non sempre Google fa le cose fatte nella maniera miglior possibile.
+
+Ho casini a migrare da Feedburner a Google, perché Google ha fissato una data di scadenza a mia insaputa (eh se lo leggevo da qualche parte che avevo tempo fino a fine febbraio, magari l'avrei anche fatto).
+
+In ogni caso, dato che, per chi è abbonato via feed ha notato dei casini, soprattutto quando carico le foto anche su flickr, ho deciso di farne uno nuovo.
+
+Siete peraltro tutti invitati ad abbonarvici:
+<a title="Subscribe to my feed" rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/helios89"><img style="border:0" src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="" /></a><a title="Subscribe to my feed" rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/helios89"> Subscribe in a reader</a>
+
+E questa volta non mi abbono io, così vedo chi c'è realmente.
+
+Per chiunque volesse seguire il blog. rimarrà qua.
+
+E mo <em>sokkazzi</em>.

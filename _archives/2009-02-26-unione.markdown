@@ -1,0 +1,24 @@
+---
+layout: post
+title: Unione
+wordpress_id: 1385
+wordpress_url: http://blog.andvari.it/?p=1385
+tags: italiano
+date: 2009-02-26 17:50:44.000000000 +01:00
+---
+E anche questa è andata. Perlomeno per qualche tempo. Sì, sto parlando di Algebra. Proprio quella.
+
+Non che oggi abbia fatto l'esame, sia chiaro. Ma un parziale è sempre un parziale, soprattutto quando è alle spalle. E devo dire di essere particolarmente soddisfatto di come sia andata.
+
+Non voglio pronunciarmi in previsioni troppo azzartags: italiano
+date, perché potrei aver sempre e comunque fatto sciocchezze mostruose nel calcolo delle permutazioni (cioè potrei essermi confuso con tutti quei numeri :lol: ), però è andato bene, ecco.
+
+La cosa che mi ha lasciato più soddisfatto, però, è stato proprio farlo questo compito. Ormai la tensione era diventata insopportabile. È così con algebra, perlomeno con l'Algebra dell'Università di Ferrara.
+
+Diciamo che i miei amici del secondo anno hanno fatto un ottimo lavoro preparatorio, convincendomi fin da subito che sarebbe stato allucinante (e in effetti così è stato) e allora ho preso un po' di petto la questione: dopo aver fatto il parziale di geometria ormai 2 settimane fa, ho cominciato a fare solo algebra. E quando dico solo algebra, intendo proprio <strong>solo algebra</strong>.
+
+Due settimane all'insegna dei gruppi quoziente, delle classe laterali, delle permutazioni del gruppo simmetrico, delle dimostrazioni. La mattina le lezioni normali e il pomeriggio algebra fino alle 19. Cioè poi si cazzeggiava anche, mica ore piene piene. :lol:
+
+E devo dire che non è roba che mi dispiace, affatto. È bello cominciare a guardare il mondo per com'è costruito. È bello pensare all'orologio come a Z/12Z, è bello domandarsi se esista un campo non algebricamente chiuso, con caratteristica diversa da 2, in cui si possa fare la radice quadrata di tutti i numeri.
+
+È bello e basta. Ormai la matematica si sta impadronendo di me, e non mi dispiace. L'unica cosa è che pian piano che mi avvicino alla Vera Verità, il contatto con la realtà diminuisce. Perlomeno questo agli occhi dei più. Che sbagliano.

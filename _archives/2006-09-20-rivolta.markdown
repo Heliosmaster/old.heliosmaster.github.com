@@ -1,0 +1,23 @@
+---
+layout: post
+title: Rivolta?
+wordpress_id: 1004
+wordpress_url: http://blog.andvari.it/?p=1004
+tags: italiano
+date: 2006-09-20 23:03:19.000000000 +02:00
+---
+È cominciato ieri.
+
+Aggiornando l'img del kernel di linux, non va più. Allora uso quella precedente.
+Oggi provo ad andare in windows, e non va neanche quello.
+Riavvio provo ad entrare nell'img precedente di linux che ieri sera funzionava e non funziona.
+Provo l'ultima img di Linux che ho e funziona.
+Provo a masterizzare su Linux ma non ha il codec degli mp3, sul portatile con Windows si blocca.
+
+Sfortuna?
+
+<strong>Aggiornamento delle 13:47 del 21/09:</strong>
+
+Boh, non ci capisco nulla. Oggi funziona tutto. Tutte le img di linux, winzozz e il masterizzatore.
+
+Boh, qua mi piglia per il culo anche il computer...

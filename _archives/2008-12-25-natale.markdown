@@ -1,0 +1,11 @@
+---
+layout: post
+title: Natale
+wordpress_id: 1308
+wordpress_url: http://blog.andvari.it/?p=1308
+tags: italiano
+date: 2008-12-25 00:00:37.000000000 +01:00
+---
+<object width="425" height="344" data="http://www.youtube.com/v/TzeN6y7kUU4&amp;hl=it&amp;fs=1&amp;rel=0" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/TzeN6y7kUU4&amp;hl=it&amp;fs=1&amp;rel=0" /><param name="allowfullscreen" value="true" /></object>
+
+No, non sono impazzito. Sono solo diventato più burlone del solito. :lol:

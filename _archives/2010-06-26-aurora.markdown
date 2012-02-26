@@ -1,0 +1,20 @@
+---
+layout: post
+title: Aurora
+wordpress_id: 1755
+wordpress_url: http://blog.andvari.it/?p=1755
+tags: italiano
+date: 2010-06-26 17:03:56.000000000 +02:00
+---
+<p style="text-align: center;">﻿﻿﻿Un bagliore divino
+Illumina il cielo
+E torno bambino.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<small>
+</small>
+
+<small>
+<p style="text-align: left;">(Ravanando nell'hard disk ho trovato un file .doc che contiene un paio di cose così. Pubblico :) )</p>
+
+</small>

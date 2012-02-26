@@ -1,0 +1,11 @@
+---
+layout: post
+title: Sansone
+wordpress_id: 222
+wordpress_url: http://blog.andvari.it/2007/06/29/sansone/
+tags: italiano
+date: 2007-06-29 12:13:36.000000000 +02:00
+---
+Siore e siori, vi presento il sansone romagnolo!
+
+Senza tanti capelli, ma con un sacco di stupidità in più!

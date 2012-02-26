@@ -1,0 +1,9 @@
+---
+layout: post
+title: Verso te
+wordpress_id: 426
+wordpress_url: http://blog.andvari.it/?p=426
+tags: italiano
+date: 2008-05-14 16:04:55.000000000 +02:00
+---
+<a title="Vespa by Heliøs, on Flickr" href="http://www.flickr.com/photos/helios89/2489811983/"><img class="centered" src="http://farm3.static.flickr.com/2267/2489811983_829d82d205.jpg" alt="Vespa" width="447" height="314" /></a>

@@ -1,0 +1,22 @@
+---
+layout: post
+title: Stinpanc
+wordpress_id: 283
+wordpress_url: http://blog.andvari.it/2008/02/25/stinpanc/
+tags: italiano
+date: 2008-02-25 15:33:06.000000000 +01:00
+---
+Cioè Steampunk, il titolo è © dell'Anna :lol:
+
+Un po' di tempo fa mi ero appassionato di questo subgenere della letteratura e avevo cominciato a seguire cose come "<a href="http://brassgoggles.co.uk">Brass Goggles</a>" e via dicendo.
+
+Tutto partì da <a href="http://www.kongregate.com/games/HeroInteractive/stormwinds-1-5">questo giochino in flash</a>: trovai una parola che non conoscevo, "steampunk" e decisi di andare <a href="http://it.wikipedia.org/wiki/Steampunk">su wiki</a> e documentarmi. Rimasi subito affascinato da questa cosa, memore del film "<a href="http://it.wikipedia.org/wiki/La_leggenda_degli_uomini_straordinari">La leggenda degli uomini straordinari</a>" che mi era piaciuto molto, e allora decisi di buttarmici a capofitto e cominciai a scrivere qualche cosa.
+
+Si chiamava London questo racconto/romanzo che avevo iniziato. Mi sono fermato a pagina 8 e pubblico qua uno stralcio di pagina 4:
+
+<meta http-equiv="CONTENT-TYPE" content="text/html; charset=utf-8" /><title></title><meta name="GENERATOR" content="OpenOffice.org 2.3  (Linux)" />
+<style type="text/css"><!-- 		@page { size: 21cm 29.7cm; margin: 2cm } 		P { margin-bottom: 0.21cm } 	--> 	</style>
+<blockquote>
+<p style="margin-bottom: 0cm; font-style: normal"><em> Mary non rispose, e cominciò a camminare a passo spedito, e dal nitrito del cavallo capì che il fratello era ripartito per il luogo dell'appuntamento. Erano ormai le otto e mezza, e il cielo sembrava incupirsi sempre più. Il luogo dove si sarebbe incontrata con il suo informatore, un tale Horace Dactery, un operaio con il vizio del gioco che non faceva a tempo a guadagnarsi con fatica la paga della settimana, che immediatamente si ritrovava senza un soldo. Questa brutta abitudine l'aveva introdotto ad ambienti non proprio onesti, taverne in cui era facile trovare più ricercati che  persone perbene. Per tirare avanti aveva deciso di diventare uno spione, e riusciva a vivere a malapena con i dodici scellini che Mary gli allungava tutte le volte che questi riusciva a fornire un'informazione interessante; se poi la soffiata portava ad una rapida conclusione del caso, Mary si dimostrava riconoscente dandogli la metà del compenso in più. L'investigatrice era largamente ripagata dai compensi dei suoi clienti, pertanto non si faceva troppi problemi a pagare l'uomo, l'unica sua remora era la paura che questi si sarebbe giocato fino all'ultimo penny e che si sarebbe fatto ammazzare, creandole un grosso problema. In un modo o in un altro Horace si era sempre dimostrato utile e, soprattutto, affidabile.</em></p>
+<p style="font-style: normal"><em>L'appuntamento era a Bagshot Street, un vicolo poco illuminato, non frequentato dal peggio della malavita londinese, ma nemmeno uno dei posti più sicuri della città. Era il posto perfetto per un incontro di quel genere.</em></p>
+</blockquote>

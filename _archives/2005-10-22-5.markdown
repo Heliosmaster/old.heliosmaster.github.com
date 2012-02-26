@@ -1,0 +1,9 @@
+---
+layout: post
+title: 5+
+wordpress_id: 577
+wordpress_url: http://blog.andvari.it/?p=577
+tags: italiano
+date: 2005-10-22 17:05:36.000000000 +02:00
+---
+Ciao...latino è andato male.... 5 +...i miei erano un pelo incazzati...

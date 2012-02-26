@@ -1,0 +1,27 @@
+{% if page.post-type %}<div class="{{ page.post-type }}">{% else %}<div class="post">{% endif %}
+  <div class="content">
+    <h2 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
+    {{ body }}
+  </div>{% unless page.hide_meta %}
+  <div class="meta">
+  <span class="author">Davide Taviani</a></span> &middot; 
+  <span class="date"><a href="/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}">{{ page.date | date: "%e" | ordinalize }} {{ page.date | date: "%B"}} {{ page.date | date: "%Y"}}</a></span>
+  </div>{% endunless %}
+</div>
+<div class="pagination">
+      <ul>
+      {% if page.previous %}
+        <li class="prev"><a href="{{ site.base_path }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+      {% else %}
+        <li class="prev disabled"><a>&larr; Previous</a></li>
+      {% endif %}
+      <li><a href="{{site.base_path}}">Home</a></li>
+      <li><a href="/archives.html">Archives</a></li>
+  
+      {% if page.next %}
+        <li class="next"><a href="{{ site.base_path }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+      {% else %}
+        <li class="next disabled"><a>Next &rarr;</a>
+      {% endif %}
+      </ul>
+    </div>

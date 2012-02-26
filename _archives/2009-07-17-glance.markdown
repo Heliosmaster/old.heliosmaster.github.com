@@ -1,0 +1,28 @@
+---
+layout: post
+title: Glance
+wordpress_id: 1549
+wordpress_url: http://blog.andvari.it/2009/07/17/glance/
+tags: italiano
+date: 2009-07-17 10:11:51.000000000 +02:00
+---
+<style type="text/css">
+.flickr-photo { border: solid 2px #000000; }
+.flickr-yourcomment { }
+.flickr-frame { text-align: left; padding: 3px; }
+.flickr-caption { font-size: 0.8em; margin-top: 0px; }
+</style>
+
+<div class="flickr-frame">
+	<a href="http://www.flickr.com/photos/helios89/3728394287/" title="photo sharing"><img src="http://farm4.static.flickr.com/3449/3728394287_b5bd4f13bf.jpg" class="flickr-photo" alt="" /></a>
+<br />
+	<span class="flickr-caption"><a href="http://www.flickr.com/photos/helios89/3728394287/">Glance</a>, originally uploaded by <a href="http://www.flickr.com/people/helios89/">Heliøs</a>.</span>
+</div>
+				
+<p class="flickr-yourcomment">
+	Devo ammettere che questo sguardo di Matteo mi piace, e non poco. Ha un'aria un po' furbetta.<br />
+<br />
+E mi piace come l'ho reso in B&W<br />
+<br />
+Postproduzione: Curve dei colori + Desaturazione tramite mixing dei canali + rimozione imperfezioni. Tutto con GIMP, ovviamente.
+</p>

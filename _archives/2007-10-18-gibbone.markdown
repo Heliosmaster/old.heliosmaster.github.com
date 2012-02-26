@@ -1,0 +1,23 @@
+---
+layout: post
+title: Gibbone
+wordpress_id: 30
+wordpress_url: http://blog.andvari.it/2007/10/18/gibbone/
+tags: italiano
+date: 2007-10-18 14:51:26.000000000 +02:00
+---
+La scimmia è arrivata. Ora non tocca far altro che formattare e metterci solo questo.
+
+E trovare un nome decente per il pc, che non posso chiamarlo:
+
+davide-linux (sì ok è stata una vaccata clamorosa, visto che nella shell veniva fuori davide@davide-linux)
+
+fawn (che ok è il nome del mio computer attuale, ma non va bene che coincida con l'animale che dà il nome alla distribuzione).
+
+C'è gente che usa i nomi dei pianeti, e spero non arrivi a usare quelli dei satelliti, e io volevo usare gli dèi della mitologia norrena. Però mi accorgo che non posso essere che POV e non mi piace. Ci vuole qualcosa di scientifico.
+
+<em>emmeciquadro</em>,<em> tensorestressenergia</em>, evviva la fantasia.
+
+Più probabilmente userò i nomi degli elementi. Helium però credo di evitarlo.
+
+<strong>UPDATE:</strong> Si chiama Hati

@@ -1,0 +1,24 @@
+---
+layout: post
+title: Ferrari?
+wordpress_id: 306
+wordpress_url: http://blog.andvari.it/2008/03/07/ferrari/
+tags: italiano
+date: 2008-03-07 11:38:49.000000000 +01:00
+---
+
+<table align="center" border="0" cellpadding="2" cellspacing="0" width="350">
+<tr>
+<td align="center" bgcolor="#eeeeee"><font style="color: black; font-size: 14pt" face="Georgia, Times New Roman, Times, serif">
+<strong>You Should Drive a Ferrari</strong>
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#ffffff"><center><img src="http://www.blogthingsimages.com/whatsportscarshouldyoudrivequiz/ferrari.jpg" height="100" width="100" /></center>
+<font color="#000000">
+Sleek and sexy, style has a lot of importance in your life. And you'll pay a lot to look good!
+</font></td>
+</tr>
+</table>
+<p align="center"><a href="http://www.blogthings.com/whatsportscarshouldyoudrivequiz/">What Sports Car Should You Drive?</a></p>
+<p align="left">Eh magari. Nel frattempo avviso i lettori che il blog è un attimino in pausa causa malattia del blogger. Purtroppo sto troppo male per bloggare..</p>

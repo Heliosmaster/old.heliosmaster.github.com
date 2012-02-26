@@ -1,0 +1,14 @@
+---
+layout: post
+title: sinkin'
+wordpress_id: 792
+wordpress_url: http://blog.andvari.it/?p=792
+tags: italiano
+date: 2006-10-24 20:46:54.000000000 +02:00
+---
+Molto da dire, poche parole per dirlo. È una lenta agonia nella tenebra.
+<blockquote><em>A questo mondo non c'è solo il fisico, né la sola intelligenza, né la sola simpatia, niente di tutto questo. Una bella persona è colui che ha un po' di questo in modo equilibrato.</em></blockquote>
+Citazione autoreferenziale, nulla di speciale. Ma non si sa mai.
+
+<img src="http://static.flickr.com/31/39333478_abeac18dc4_o.jpg" alt="" width="339" height="224" />
+<a href="http://flickr.com/photos/shuttr/39333478/">Fonte</a> (cc-by-nd)

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Spesa
+wordpress_id: 1396
+wordpress_url: http://blog.andvari.it/?p=1396
+tags: italiano
+date: 2009-03-17 20:08:01.000000000 +01:00
+---
+E ci sono giornate come quella di oggi, quando mancano 2 giorni a una cosa molto importante (indovinate? Algebra! :lol: ), in cui non si riesce a combinare quasi niente. E allora andare a fare la spesa aiuta, aiuta davvero.
+
+Meno male che però almeno sono riuscito a capire come fare l'esercizio sul centro del gruppo diedrale. Almeno questo.
+
+E sto cominciando a impratichirmi con il LaTeX (cioè a dir la verità fa quasi tutto LyX :P )

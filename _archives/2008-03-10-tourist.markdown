@@ -1,0 +1,11 @@
+---
+layout: post
+title: Tour(ist)
+wordpress_id: 323
+wordpress_url: http://blog.andvari.it/2008/03/10/tourist/
+tags: italiano
+date: 2008-03-10 21:40:22.000000000 +01:00
+---
+<a href="http://www.flickr.com/photos/helios89/2324358805/" title="Tour(ist) by Heliøs, on Flickr"><img src="http://farm4.static.flickr.com/3274/2324358805_8070240845.jpg" alt="Tour(ist)" height="500" width="333" /></a>
+
+Doh, Parigi. È quasi ricordo lontano.

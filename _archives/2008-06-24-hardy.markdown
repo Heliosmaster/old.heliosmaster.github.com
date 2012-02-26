@@ -1,0 +1,11 @@
+---
+layout: post
+title: Hardy
+wordpress_id: 628
+wordpress_url: http://blog.andvari.it/?p=628
+tags: italiano
+date: 2008-06-24 22:45:57.000000000 +02:00
+---
+Finalmente, dopo un bel po' di tempo, anhce io sono passato all'ultima versione di Ubuntu. Mi si era poi ripresentato il problemino <a href="http://blog.andvari.it/2008/05/26/la-barra-di-sistema-che-non-flasha-e-io-che-divento-matto/">descritto qua</a>, ma fortunatamente sono riuscito ad aggirarlo: attivando gli effetti "normali" in "Sistema &gt; Preferenze &gt; Aspetto &gt; Effetti visivi" la barra lampeggia.
+
+Chissà perché. Tengo questo post a futura memoria, visto che Kopete lo uso ancora abbastanza :P

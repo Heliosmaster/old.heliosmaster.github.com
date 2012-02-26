@@ -1,0 +1,9 @@
+---
+layout: post
+title: many mes
+wordpress_id: 305
+wordpress_url: http://blog.andvari.it/2008/03/04/many-mes/
+tags: italiano
+date: 2008-03-04 18:27:05.000000000 +01:00
+---
+<a href="http://www.flickr.com/photos/helios89/2310648312/" title="many mes by Heliøs, on Flickr"><img src="http://farm3.static.flickr.com/2049/2310648312_3be645187f.jpg" alt="many mes" height="265" width="447" /></a>

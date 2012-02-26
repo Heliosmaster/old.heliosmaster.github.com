@@ -1,0 +1,9 @@
+permalink: pretty
+exclude: [".rvmrc", "README.md", "Rakefile"]
+pygments: true
+auto: true
+google-analytics: 'UA-4544599-1'
+name: "Davide's blog"
+base_path: 'http://blog.andvari.it' # http://localhost:4000'#'http://bits.andvari.it'
+#lsi: true
+paginate: 5

@@ -1,0 +1,11 @@
+---
+layout: post
+title: KDE 4.0
+wordpress_id: 173
+wordpress_url: http://blog.andvari.it/2008/01/12/kde-40/
+tags: italiano
+date: 2008-01-12 18:02:20.000000000 +01:00
+---
+Oggi ho provato KDE4 secondo i consigli e la guida del <a href="http://pollycoke.net/2008/01/11/kde-4-per-ubuntu-gutsy-in-dieci-minuti/">buon felipe</a>.
+
+Il look è veramente <em>impressive</em>, l'usabilità un po' meno per quanto ho potuto vedere.

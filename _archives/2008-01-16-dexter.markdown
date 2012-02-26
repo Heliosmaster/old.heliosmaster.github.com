@@ -1,0 +1,11 @@
+---
+layout: post
+title: Dexter
+wordpress_id: 177
+wordpress_url: http://blog.andvari.it/2008/01/16/dexter/
+tags: italiano
+date: 2008-01-16 18:55:18.000000000 +01:00
+---
+Sanguinolento. Sublime. Terrorizzante. Magnifico.
+
+<em>(sono di poche parole, eh?</em>)

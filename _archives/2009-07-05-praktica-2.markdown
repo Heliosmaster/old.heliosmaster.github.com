@@ -1,0 +1,19 @@
+---
+layout: post
+title: Praktica
+wordpress_id: 1523
+wordpress_url: http://blog.andvari.it/2009/07/05/praktica-2/
+tags: italiano
+date: 2009-07-05 14:04:31.000000000 +02:00
+---
+<!-- .flickr-photo { border: solid 2px #000000; } .flickr-yourcomment { } .flickr-frame { text-align: left; padding: 3px; } .flickr-caption { font-size: 0.8em; margin-top: 0px; } -->
+<div class="flickr-frame"><a title="photo sharing" href="http://www.flickr.com/photos/helios89/3689418605/"><img class="centered" src="http://farm3.static.flickr.com/2468/3689418605_a090722b2e.jpg" alt="" /></a>
+
+<span class="flickr-caption"><a href="http://www.flickr.com/photos/helios89/3689418605/">Praktica</a>, originally uploaded by <a href="http://www.flickr.com/people/helios89/">Heliøs</a>.</span></div>
+<p class="flickr-yourcomment">Un regalo del mio ormai "ex" coinquilino Matteo. Una Praktica MTL5, prodotta fra il 1983 e il 1985 (ben lungi dalla mia nascita insomma), con un altrettanto vetusto obbiettivo sovietico Helios 58mm f/2</p>
+
+Ho notato il nome dell'obbiettivo solo dopo, e direi che non poteva essere nome migliore.
+
+Non so quante foto farò con questa macchina, soprattutto ora che ho la "bomba" D300 (con cui ovviamente è stata scattata questa macchina), e anche perché la foto in pellicola costa, e non poco.
+
+Sono soddisfatto perché è anche la prima foto che ho scattato in NEF ed elaborato grazie a UFRaw per la mia Ubuntu 9.04

@@ -1,0 +1,28 @@
+---
+layout: post
+title: Infinito
+wordpress_id: 1758
+wordpress_url: http://blog.andvari.it/?p=1758
+tags: italiano
+date: 2010-06-27 17:06:48.000000000 +02:00
+---
+<div>
+<p style="text-align: center;">L’infinito, irraggiungibile
+un sogno, un’ossessione
+un racconto incredibile</p>
+<small>
+</small>
+
+<small></small>
+
+<small></small>
+
+<small></small>
+
+<small></small>
+
+<small>(il gemello di questo post <a href=" http://blog.andvari.it/2010/06/26/aurora">qua </a>)
+
+</small>
+
+</div>

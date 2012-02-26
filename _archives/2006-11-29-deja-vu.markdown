@@ -1,0 +1,20 @@
+---
+layout: post
+title: Déjà vu
+wordpress_id: 948
+wordpress_url: http://blog.andvari.it/?p=948
+tags: italiano
+date: 2006-11-29 22:41:24.000000000 +01:00
+---
+Da <a href="http://it.wikipedia.org/wiki/Déjà_vu">Wikipedia:</a>
+<blockquote>l <strong>déjà vu</strong> (in Francese /<span class="IPA" title="Questa è una trascrizione IPA della pronuncia. Vedere l'alfabeto fonetico internazionale.">deʒavy</span>/ "<em>già visto</em>"), chiamato anche <strong>paramnesia</strong> è la sensazione di aver vissuto precedentemente un avvenimento o una situazione che si sta verificando.</blockquote>
+È molto interessante la voce in questione, che mi ha permesso di capire qualcosa di più su questa "cosa" che ogni tanto mi accade, e con ogni tanto intendo 1-2 volte a settimana.
+È un fatto ancora sconosciuto alla scienza, anche se ci sono 3 ipotesi:
+<ol>
+	<li>Malattia da associare a schizofrenia o epilessia del lobo temporale</li>
+	<li>Capacità extra-sensoriali e chiaroveggenza</li>
+	<li>Ricordi poco chiari di sogni simili a ciò che si vede.</li>
+</ol>
+Beh se le prime due sono senza dubbio esagerate, ma anche la 3 non mi convince...
+
+Mah, mistero..

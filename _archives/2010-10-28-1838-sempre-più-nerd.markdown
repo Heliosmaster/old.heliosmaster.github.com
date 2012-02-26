@@ -1,0 +1,17 @@
+---
+layout: post
+title: Sempre più nerd
+wordpress_id: 1838
+wordpress_url: http://blog.andvari.it/2010/10/28/1838/
+tags: italiano
+date: 2010-10-28 20:29:21.000000000 +02:00
+---
+Questa sera la nerdaggine sta raggiungendo livelli inverosimili.
+
+prima di urto, contestualizzo:
+
+Sono a Ravenna, al centro sociale spartaco, mentre <a href="<a href="http://www.kalamun.org">Kalamun</a> tiene un corso di Photoshop (che, sinceramente non sto ascoltando) e sono venuto un po' per fare un giro, un po' per compagnia, insieme a<a href="http://www.rubboli.it">Enrico Rubboli</a> e consorte...
+
+Dato che da un mesetto abbondante sono un Felice possessore di iPad, ho deciso dinprenderlo dietro e sfruttare la sua estrema portabilità. Peccato che avevo fatto male i miei conti con la connettività, visto che qua allo spartaco non c'è la Wifi, e io, nonostante abbia un iPad 3G , non mi sono ancora dotato di opportuna scheda .. E la soluzione è stata <em>easy as a pie</em>: il mio fido compare ha un HTC desire e non abbiamo fatto che abilitare il tetherin g via wifi e usare la sua connessione 3G. Poi, mi sono collegato con il mio iPad, ho scaricato l'app di wordpress e sto scrivendo ora questo post. A dir la verità questa applicazione non è fatta benissimo, e quindi al primo tentativo ho fatto un po' di casino che non riuscivo a sistemare, ma mi sono collegato con il mio HTC G1 dream, che ha anche lui wordpress installato (ma sembra che la versione per android sia fatta meglio) e ho rimediato.
+
+Beh, insomma... Mi sento geekissimo. E so che posso ancora migliorare.  

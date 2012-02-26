@@ -1,0 +1,47 @@
+---
+layout: default
+title: Davide's Blog
+---
+<div id="home">
+{% for post in paginator.posts %}
+  <article>
+    <header><h1><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1></header>
+  
+   {{ post.content }}
+  
+   <p>
+    <a href="{{ post.url }}" title="{{ post.title }}"><time datetime="{{ post.date | date_to_xmlschema }}" pubdate>{{ post.date | date_to_string }}</time></a>
+   (<a href="{{ post.url }}#disqus_thread" class="post_comment_link">Comments</a>)
+        </p>
+  
+</article>
+
+<hr />
+
+{% endfor %}
+</div>
+
+<footer>
+  <div class="pagination">
+      <ul>
+      {% if paginator.next_page %}
+        <li class="prev">  <a href="/page{{ paginator.next_page }}/" title="{{ page.previous.title }}">&larr; Older</a></li>
+      {% else %}
+        <li class="prev disabled"><a>&larr; Older</a></li>
+      {% endif %}  
+        
+  
+      <li style="padding: 0 14px 0 14px;border-right:1px solid;border-right-color:#ddd;border-right-color:rgba(0, 0, 0, 0.15);*border-right-color:#ddd;">Page {{paginator.page}} of {{paginator.total_pages}}</li>
+      
+       {% if paginator.previous_page %}
+        <li class="next"><a href="/page{{ paginator.previous_page }}" title="{{ page.next.title }}">Newer &rarr;</a></li>
+      {% else %}
+        <li class="next disabled"><a>Newer &rarr;</a>
+      {% endif %}
+      
+      
+
+      
+      </ul>
+    </div>
+</footer>

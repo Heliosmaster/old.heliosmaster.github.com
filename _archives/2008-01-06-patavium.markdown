@@ -1,0 +1,39 @@
+---
+layout: post
+title: Patavium
+wordpress_id: 162
+wordpress_url: http://blog.andvari.it/2008/01/06/patavium/
+tags: italiano
+date: 2008-01-06 11:42:03.000000000 +01:00
+---
+Eccomi a casa dalla mia esperienza veneta di 3 giorni a casa del fido <a href="http://pmatthew.net">PMatthew</a>, non posso fare a meno che bloggare su tutto quanto sia successo, così faccio contento anche Semolo visto che non vedeva l'ora di leggere queste poche righe.
+
+Prima di tutto non posso non ringraziare lui e tutta la sua famiglia che sono stati molto gentili e ospitali con me in questi pochi giorni, l'ho davvero apprezzato!
+
+Tutto è cominciato il 3 gennaio, avevo detto a Pmatthew che sarei andato a casa sua in macchina e sarei arrivato verso le 19, mentre il mio vero programma, che avevo organizzato con S., era quello di andare in treno e arrivare da lui verso le 15, decisamente in anticipo. Così ho anche avuto modo di apprezzare la celerità degli InterCity e per la prima volta ho usufruito della carta servizi Smart delle Ferrovie dello Stato, che garantisce il 10% di sconto sul prezzo del biglietto (il che guasta mai). Le due ore o poco più del viaggio le ho passate ascoltando i Blind Guardian, quindi me le sono passate abbastanza velocemente, anche se, all'altezza di Ferrara, fuori nevicava così tanto che mi sembrava di essere sulla ferrovia trans-siberiana, visto che non si vedeva nulla a parte una distesa innevata.
+
+Beh, comunque arrivo alla stazione di Padova, prendo l'uscita Arcella e, non appena arriva il mio wikiautista ( ;) ) andiamo a casa di PMatthew. La sua espressione quando mi ha visto con qualche ora di anticipo è stata imperdibile. :lol: Veramente di sasso.
+
+Così, mente lui <strong>avrebbe dovuto</strong> studiare, S. si è messo a finire il mio disegno della Venere di Botticelli che devo consegnare domani (che gli venga un pizzichino al prof di arte, sì, uno di quei due con cui ho giocato a carte), ho avuto modo di constatare come un gruppo di ragazzini di seconda media (ebbene sì, S. insegna Matematica e Scienze in una scuola media) abbiano copiato cose del tipo 24:3=6, <em>et similia.</em> Deprimente.
+
+Beh, nonostante questo, dopo una bella cioccolata, si è proceduto ad un po' di sano cazzeggio, e ciò mi sembra naturale quando sono io nei paraggi.
+
+La sera ho avuto modo di conoscere B. e J., due amici di PMatthew, molto ma molto simpatici. Ed essere andati alla birreria "La Torre" di Cittadella e avere ordinato il Toast Porcelloso, beh, è il tocco di classe. Successivamente, ho avuto modo di conoscere anche P., l'ultimo membro della compagnia dei 4 di PMatthew, che era, beh mi pare scontato, simpaticissimo come gli altri due.
+
+Dopo aver provato a montare un narghilé catalano che si è rivelato bucato (no, non avrei fumato il tabacco alla fragola, per scelta non fumo) e dopo aver mangiato un po' di cioccolatini, una bella partita a Macchiavelli ha completato la serata.
+
+La mattina dopo, subito carichi, siamo andati a recuperare il portafoglio di PMatthew che aveva lasciato da P., così abbiamo approfittato del fatto che fossimo già fuori, e siamo passati a trovare J. che era al lavoro.
+
+Nuovamente a casa, ho imparato a mie spese di non fare scherzi con <strong><em>sudo rm -rf *</em></strong> fatto eseguire da /, soprattutto se in /etc/sudoers è stato specificato di non chiedere la password di root. Ho praticamente sputtanato un PC di Pmatthew, nel quale era installato Ubuntu Studio, e mi sono sentito proprio un incapace (per una volta sono conscio delle mie vere potenzialità distruttive)
+
+Dopo il camminamento di ronda della città di Cittadella, che mi ha fruttato un paio di foto in HDR, e una bella scorpacciata di arachidi caramellate, è stata l'ora della partita di tennis, vinta dal sottoscritto 6-2, grazie alla mia folgorante battuta. (Ecco, solo nel tennis faccio battute efficaci :lol: )
+
+La sera eravamo un po' cotti io e Pmatthew, dato che la partita ci aveva sfiancato, e così anche S. (non lo stesso di prima, un altro S.) sarebbe restato volentieri a casa, ma J. ha spinto per andare a Bassano del Grappa, e devo dire che ha fatto meravigliosamente bene. Dopo una ventina di minuti di macchina durante i quali sono un po' collassato, complice anche il raffreddore che mi aveva attaccato il mio amico, eccoci arrivati! Dopo aver <em>regrouppato</em> (oddio che parola tanto da gamer, come si fa il regroup con gli alleati nei First Person Shooter) con B., i cui amici erano già piazzati davanti ad una libreria per aspettare la loro copia di HP 7: I Doni della Morte (che tanto sanno già tutti come va a finire, visto che lo sbandierano anche ai telegiornali).
+
+Poi, tutti al Ponte degli Alpini. Acqua di Cedro (veramente buona! grappa, cedrata e zucchero), poi grappa alla menta, poi panna di menta (ovvero grappa, panna  e menta), poi grappa e panna. Buonissima!
+
+A casa abbiamo guardato su un sito internet tutte le foto di capodanno a cui avevano partecipato J e Pmatthew, e, dopo averne scorse 200 su 220, ovviamente le abbiamo trovate. (Esempio classico dell'infallibilità delle leggi di Murphy). Visto che la graziosa fanciulla l'indomani doveva lavorare, è andata a casa, mentre noi pavidi uomini siamo rimasti a giocare a World of Padman fino alle 2.30 :P cioè ci stavamo addormentando sui rispettivi computer.
+
+Mi sveglio e vado nell'altra stanza a riportarlo nel mondo dei vivi, sono le 10 di mattina, e lui pare addormentato come fossero le 4. Dopo averlo tirato giù dal letto (non con la forza, sono debole anche io la mattina) e una buona colazione, un po' di Wormux (Worms per noi Linuxari), poi uno Spritz con la J e B.
+
+Effettivamente lo Spritz non mi piace molto, per via dell'aperol, però diciamo che c'è stato. E così, poco altro fino a quando ho preso il treno per tornare a casa, dove ho trovato subito altri ragazzi quasi coetanei di Belluno con cui ho riso tutto il viaggio (e con cui ho giocato a scacchi, vincendo in termini di punti)

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Geek Code
+wordpress_id: 319
+wordpress_url: http://blog.andvari.it/2007/04/28/geek-code/
+tags: italiano
+date: 2007-04-28 15:40:00.000000000 +02:00
+---
+Questa è molto criptica, ma nemmeno troppo, dato che linko wikipedia, e più precisamente <a href="http://it.wikipedia.org/wiki/Geek_code">questa voce</a>.
+
+<tt>-----BEGIN GEEK CODE BLOCK-----
+Version: 3.1
+GM/S d- s++:-&gt; a--- C++&gt;$ UL P L++&gt;++++$ E--- !W+++&gt;$ N o? K-? w--&gt;--- O-? M V? PS++(+++) PE-(--) Y++ PGP+&gt;++ !t !5 !X R+(++)&gt;$ tv- b++(+++) DI D++ G++ e-&gt;++++ h--&gt;--- r--&gt;+++ !y+
+------END GEEK CODE BLOCK------</tt>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Kitty
+wordpress_id: 1243
+wordpress_url: http://blog.andvari.it/?p=1243
+tags: italiano
+date: 2008-11-05 20:33:51.000000000 +01:00
+---
+<a title="Kitty by Heliøs, on Flickr" href="http://www.flickr.com/photos/helios89/3005222570/"><img src="http://farm4.static.flickr.com/3191/3005222570_9c517677ef.jpg" alt="Kitty" width="447" height="346" /></a>

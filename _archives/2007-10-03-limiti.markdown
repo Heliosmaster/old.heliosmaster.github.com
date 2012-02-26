@@ -1,0 +1,26 @@
+---
+layout: post
+title: Limiti
+wordpress_id: 15
+wordpress_url: http://blog.andvari.it/2007/10/03/limiti/
+tags: italiano
+date: 2007-10-03 19:31:28.000000000 +02:00
+---
+<img src="http://upload.wikimedia.org/math/b/6/b/b6be4555c413cbb338203f83a602d93a.png" />
+<br clear="all" />
+
+è vero  che:
+<img src="http://upload.wikimedia.org/math/1/e/6/1e6f71a88e2037444e8db47965758ba6.png" alt="\lim_{x \to b^+}f(x)=1" />
+<br clear="all" />
+<img src="http://upload.wikimedia.org/math/9/c/1/9c12535399c6605aa2c30377b464a878.png" alt="\lim_{x \to b^-}f(x)=1" />
+<br clear="all" />
+<img src="http://upload.wikimedia.org/math/1/e/6/1e6f71a88e2037444e8db47965758ba6.png" alt="\lim_{x \to b^+}f(x)=1" />
+<br clear="all" />
+<img src="http://upload.wikimedia.org/math/6/4/c/64c497621982bc2fab06c5ca8d4ca0b1.png" alt="\lim_{x \to b^+}f(x)=1^+" />
+<br clear="all" />
+<img src="http://upload.wikimedia.org/math/c/8/1/c81cc0f10c589b0bf1bdd650dca3d3fb.png" alt="\lim_{x \to b^+}f(x)=1^- " />
+<br clear="all" />
+
+Mi dite voi la risposta esatta? Io ho scoperto i miei limiti, almeno per ora.
+
+(su questo ci sono arrivato, ma che stress)

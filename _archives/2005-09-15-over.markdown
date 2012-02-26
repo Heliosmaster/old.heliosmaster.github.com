@@ -1,0 +1,9 @@
+---
+layout: post
+title: over
+wordpress_id: 554
+wordpress_url: http://blog.andvari.it/?p=554
+tags: italiano
+date: 2005-09-15 22:37:18.000000000 +02:00
+---
+aiuto comincia la scuola!! non vojO!!!

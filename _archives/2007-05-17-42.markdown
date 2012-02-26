@@ -1,0 +1,10 @@
+---
+layout: post
+title: '42'
+wordpress_id: 288
+wordpress_url: http://blog.andvari.it/2007/05/17/42/
+tags: italiano
+date: 2007-05-17 17:13:39.000000000 +02:00
+---
+<blockquote><p>Non so chi mi abbia messo al mondo, né che cosa sia il mondo, né che cosa io stesso. Sono in un'ignoranza spaventosa di tutto. Non so che cosa siano il mio corpo, i miei sensi, la mia anima e questa stessa parte di me che pensa quel che dico, che medita sopra di tutto e sopra se stessa, e non conosce sé meglio del resto. Vedo quegli spaventosi spazi dell'universo, che mi rinchiudono; e mi trovo confinato in un angolo di questa immensa distesa, senza sapere perché sono collocato qui piuttosto che altrove, né perché questo po' di tempo che mi è dato da vivere mi sia assegnato in questo momento piuttosto che in un altro di tutta l'eternità che mi ha preceduto e di tutta quella che mi seguirà. Da ogni parte vedo soltanto infiniti, che mi assorbono come un atomo e come un'ombra che dura un istante, e scompare poi per sempre. Tutto quel che so è che debbo presto morire; ma quel che ignoro di più è, appunto, questa stessa morte, che non posso evitare</p>
+<p><strong><em> Blaise Pascal</em></strong><em> - Pensieri - 194</em></p></blockquote>

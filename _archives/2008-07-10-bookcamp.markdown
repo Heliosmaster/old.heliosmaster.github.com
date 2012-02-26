@@ -1,0 +1,13 @@
+---
+layout: post
+title: BookCamp
+wordpress_id: 656
+wordpress_url: http://blog.andvari.it/?p=656
+tags: italiano
+date: 2008-07-10 15:52:56.000000000 +02:00
+---
+Domani partecipo a questo BarCamp a Rimini: il <a href="http://barcamp.pbwiki.com/BookCamp">BookCamp</a>
+
+Sono fortuntamente riuscito a rimediare un passaggio da <a href="http://www.delymyth.net">Delymyth</a>, così potrò ascoltare la telefonata di <a href="http://it.wikipedia.org/wiki/Richard_Stallman">RMS</a>.
+
+Se siete in zona, fate un fischio.

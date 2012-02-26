@@ -1,0 +1,10 @@
+---
+layout: post
+title: Fínn veður
+wordpress_id: 823
+wordpress_url: http://blog.andvari.it/?p=823
+tags: italiano
+date: 2006-07-13 00:46:24.000000000 +02:00
+---
+Caldo. Soffocante caldo. Umido, troppo, 100 %.
+Sognare, di nuvole e di cielo. Fresco

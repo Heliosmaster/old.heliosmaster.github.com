@@ -1,0 +1,13 @@
+---
+layout: post
+title: Victory!
+wordpress_id: 1066
+wordpress_url: http://blog.andvari.it/?p=1066
+tags: italiano
+date: 2006-07-14 17:30:56.000000000 +02:00
+---
+Si aprano le danze...
+
+Signore e Signori, ho l'immenso piacere di annunziarvi che in data odierna alle ore 16:00 locali, il qui presente Stud. Perdit. Cazzegg. e vv.ee. Davide Taviani aka Helios, è riuscito ad installare correttamente Kubuntu 6.06, meglio noto come Dapper Drake.
+
+..ed ora questo minuetto è per festeggiare tutti insieme, signori...

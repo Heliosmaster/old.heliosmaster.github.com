@@ -1,0 +1,15 @@
+---
+layout: post
+title: Haiku
+wordpress_id: 639
+wordpress_url: http://blog.andvari.it/?p=639
+tags: italiano
+date: 2007-04-20 21:07:04.000000000 +02:00
+---
+Durante l'esperienza umbra ho imparato un nuovo stile di poesie e volevo dividerlo con voi: si tratta dell'<strong><em>Haiku</em></strong>. Per meglio illuminare voi lettori di quale diavoleria letteraria si tratti, vi invito alla lettura dell'eloquente voce wikipediana, <a href="http://it.wikipedia.org/wiki/Haiku">Haiku</a> per l'appunto.
+<blockquote>Guardo il cielo
+
+risplendere di notte.
+
+luci lontane.</blockquote>
+So che a molti può non piacere, ma ha quel tocco minimalista che la rende elegante. No non sto parlando dell'haiku appena composto, ma del componimento in sè.

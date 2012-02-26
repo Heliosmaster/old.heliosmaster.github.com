@@ -1,0 +1,9 @@
+---
+layout: post
+title: Survivor
+wordpress_id: 629
+wordpress_url: http://blog.andvari.it/?p=629
+tags: italiano
+date: 2006-06-23 01:16:03.000000000 +02:00
+---
+Sono sopravvissuto a 8 ore di lavoro, più di quelle previste. Ma non importa, si va avanti, come l'Italia agli ottavi, mah, vedremo...

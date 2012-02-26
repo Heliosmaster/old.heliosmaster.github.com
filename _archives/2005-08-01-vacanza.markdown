@@ -1,0 +1,9 @@
+---
+layout: post
+title: vacanza
+wordpress_id: 532
+wordpress_url: http://blog.andvari.it/?p=532
+tags: italiano
+date: 2005-08-01 15:23:29.000000000 +02:00
+---
+Il blog è in vacanza

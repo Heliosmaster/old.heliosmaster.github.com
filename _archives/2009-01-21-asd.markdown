@@ -1,0 +1,9 @@
+---
+layout: post
+title: ASD
+wordpress_id: 1333
+wordpress_url: http://blog.andvari.it/?p=1333
+tags: italiano
+date: 2009-01-21 19:30:22.000000000 +01:00
+---
+Celebro con esattamente 30 parole (secondo Wordpress) l'esito dell'esame di Algoritmi e Strutture di Dati. Peccato che mi abbia chiesto l'unica cosa che non ho ben ripassato: Assiomi di Peano. Pazienza.

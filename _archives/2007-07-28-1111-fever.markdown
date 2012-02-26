@@ -1,0 +1,11 @@
+---
+layout: post
+title: 1111 Fever
+wordpress_id: 125
+wordpress_url: http://blog.andvari.it/2007/07/28/1111-fever/
+tags: italiano
+date: 2007-07-28 21:05:03.000000000 +02:00
+---
+C'è un trucco di Final Fantasy VII comunemente chiamato "la febbre del 7777"; un personaggio, quando ha esattamente 7777 hp, impazzisce e lancia fino a 62 attacchi consecutivi che tolgono 7777 hp al nemico. È molto potente come mossa.
+
+Pochi secondi fa, nel pannello di amministrazione di questo blog ho letto il messaggio che Akismet aveva filtrato ed eliminato "1,111 messaggi spam", pertanto ho notato una somiglianza con questa febbre, e penso sia il caso di brindare, ad Akismet che funge bene, in barba agli spammer!

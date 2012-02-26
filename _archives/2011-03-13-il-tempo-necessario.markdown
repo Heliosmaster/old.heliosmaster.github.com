@@ -1,0 +1,98 @@
+---
+layout: post
+title: Il tempo necessario
+wordpress_id: 1926
+wordpress_url: http://blog.andvari.it/?p=1926
+tags: italiano
+date: 2011-03-13 18:51:00.000000000 +01:00
+---
+<strong>Nota introduttiva:</strong> Quello che segue è un lungo articolo, quasi un saggio. Per poterlo apprezzare bene è necessario un po' di tempo, circa un quarto d'ora. Consiglio di leggerlo solo quando avrete sufficiente tempo per leggerlo dall'inizio alla fine senza interruzioni. Poi capirete del perché :)
+
+Sono qua, steso sul mio letto in camera, con l'iPad sopra le ginocchia, scrivendo con iA writer del perchė sento che in un qualche modo, un aggeggino come questo possa cambiare la vita (ad alcuni poco, ad altri di più) in meglio. Ma quello di cui voglio parlare, ovvero un piccolo aspetto in cui l'iPad può migliorare la nostra vita (ci sono stati decine e decine di post in materia, da un anno a questa parte), è un concetto estremamente difficile da esprimere, ma vedrò di fare il possibile.
+
+<!--more-->
+
+Tutto comincia col fatto che oggi la tecnologia pervade sempre di più in maniera capillare la nostra esistenza. iPhone, iPad, computer che ormai si infilano nel taschino, tostapane che a momenti risolvono (numericamente, eh!) integrali, e così via.
+
+E noi, come siamo cambiati?
+
+È da sciocchi pensare che, mentre il mondo intorno a noi cambia ad una velocità sempre più incalzante, il genere umano sia rimasto sempre lo stesso. Noi che dagli alberi siamo passati alle savane, che dalle caverne siamo passati ai loft!
+E così, in questo mondo in costante evoluzione, anche il nostro corpo (con questo termine intendo anche la mente) muta e cerca di adattarsi all'ambiente circostante.
+Però è meglio fare qualche esempio, per capirsi meglio: Wikipedia è stata una delle invenzioni della storia, a mio avviso, per il fatto che, con le sue modalità, ha portato il sapere a portata di click, ma ha anche avuto i suoi lati negativi, soprattutto nello spirito critico delle persone. Essendo wikipediano da molti anni (siamo al sesto compleanno proprio in questi giorni) so bene che la tanto cara enciclopedia libera non dà alcuna garanzia sui contenuti e che uno dovrebbe usarla con spirito più che critico, andando a verificare le fonti direttamente. Ma, vuoi perché le fonti spesso non ci sono, vuoi per la pigrizia (soprattutto per questa!) insita nelle persone (che reputo una diretta conseguenza dell'agio della società moderna), in pochi valutano adeguatamente le informazioni presenti, fidandosi perlopiù. E si commettono errori, errori grossolani e gravi. In questo mi riferisco ai giornalisti che spudoratamente e brutalmente copincollano da wikipedia! Proprio voi, di cui ci fidiamo leggendo i giornali (online e non), ci tradite!
+
+Proprio questa pigrizia, che accennavo poc'anzi, è forse il sintomo più evidente dell'adagiarsi derivato dalle comodità moderne. La tecnologia (e con questa parola intendo sia quello che può essere direttamente entrato nelle abitazioni negli ultimi anni, che quello che lo ha fatto indirettamente tramite prodotti industriali) ha cambiato molte nostre abitudini in peggio: chi ha più bisogno di ricordarsi qualcosa quando c'e San Google (e per estensione tutta internet) a farlo? Chi impara a memoria dei vocaboli quando nel cellulare può avere un dizionario con migliaia e migliaia di parole in tutte le lingue del mondo?<strong> Chi ce lo fa fare?</strong>
+
+Questo ė appunto, secondo me, il vero nocciolo della questione. Quando ci sono cose che fanno il lavoro per noi, chi ce lo fa fare di farlo comunque? (intanto, per dovere di cronaca, comunico che mi sono spostato dal letto alla scrivania: scrivere sulle ginocchia da steso non è proprio la posizione più comoda)
+
+Però, tutte le volte che ci facciamo la domanda "chi me lo fa fare?" tendiamo a considerare la cosa sotto un unico punto di vista, quello del lavoro in sé. Quando spesso é più importante il processo che porta a compimento il lavoro, perché, a conti fatti, è quello che resta in noi.
+
+È così che la tecnologia migliora il mondo in cui viviamo, ma peggiora noi, pareggiando in qualche modo le cose: tutte le volte che, quando qualcuno ci fa una domanda, anziché fermarci e riflettere andiamo subito a cercare su internet la risposta, nonostante sappiamo che con un po' di ragionamento ci saremmo arrivati, saltiamo la "palestra" altrimenti fondamentale per il nostro organo più importante: il cervello.
+
+Uno di questi cambiamenti che stanno accadendo in noi e del quale sono più conscio, riguarda l'attenzione. Parlando di me, per fare un discorso un po' più concreto, mi sono accorto come il fatto di essere una persona con un rapporto simbiotico con il computer e internet mi abbia reso fisicamente diverso da qualcuno che questa abitudine non ce l'ha. La maggior parte della mia giornata, o comunque del tempo trascorso non a studiare (sempre troppo, ahimè) è vissuta facendo più cose contemporaneamente. Che siano 3 finestre del browser in simultanea (anche con contenuti totalmente diversi!), che sia chattare e guardare qualcos'altro, o qualunque altra cosa, il fatto è che la mia attenzione è sempre e costantemente divisa. Un po' penso ad una cosa, un po' a un'altra, e così non penso mai realmente a niente, perdendo tantissimo in "efficienza", e facendomi addirittura sentire male (mi dispiace di non riuscire a dedicare ad alcune cose l'attenzione necessaria)
+
+Citerò ora un ulteriore esempio emblematico, che mi riguarda: quando sto al computer sono sempre nella stanza con mio padre, che fa lo stesso. Spesso, quando mi comincia a parlare, la mia attenzione è rivolta allo schermo e non a lui, quindi le parole letteralmente entrano da un orecchio ed escono dall'altro. Sento eh, ma sento e basta. Rispondo, quando non posso farne a meno, ma non ascolto realmente. Scherzi a parte, non ricordo il 90% delle cose che mi dice dopo 10 secondi. Comunque, in modo minore, questa cosa c'è anche da parte sua, non crediate che sia un figlio del tutto degenere. :p
+
+Altrettanto emblematico è il fatto come io e lui, padre e figlio, riusciamo a parlare veramente solo quando stiamo andando a letto: capita spesso che verso mezzanotte (se sono rimasto a casa quella sera, chiaramente) andiamo a letto entrambi, e così cominciamo a chiudere i computer e a sistemare la stanza, mettendo un po' a posto, prima di andare di sopra a letto. E proprio il fatto che né io né lui abbiamo il PC acceso o stiamo leggendo un giornale, o comunque non siamo OCCUPATI, (c'è sicuramente anche una componente dettata dall'ora tarda e dal conseguente rilassamento) ci fa parlare bene.
+Ormai è un paio di mesi che quando torno a casa vado a letto a orari indecenti perché si sta a parlare fino all'una, o giù di lì.
+
+Che mio babbo, ormai nella sua sessantina, si fosse immaginato qualcosa del genere quando era piccolo, sono proprio sicuro di no. Era l'epoca a cui si pensa nella famosa locuzione  "<em>si stava meglio quando si stava peggio</em>", dopotutto.
+
+Comunque era solo un piccolo esempio per come la tecnologia (e sicuramente qua non sono giusto, non è tutta colpa della tecnologia, dopotutto, per come si è evoluta la società e la cultura occidentale) ci cambi, anche biologicamente: io non ne so nulla, e mi baso su cose lette un po' di tempo fa (ma basta googlare e informarsi sull'<em>information overloading</em> e sui deficit di attenzione, per recuperare quello a cui mi riferisco, anzi, non è che basta, è proprio necessario informarsi direttamente alla fonte, dato che in questo mio "articolo" non sono sufficientemente specifico), sono tuttavia convinto di aver letto di studi fatti comparando il cervello di una persona come me, una periferica-umana di un pc, quasi (sì, anche in questo caso non sto probabilmente rendendo giustizia a me stesso, ma pazienza) e una persona normale. E pare che abbiano visto che nel cervello si attivano aree differenti: per gli informatizzati è più sviluppata la parte atta a discernere fra segnale e rumore, ad esempio.
+
+Ecco, quest'ultima mia affermazione mi ha dato un ottimo aggancio per il discorso che volevo fare. Sì, lo so, l'ho effettivamente presa un po' alla larga, ma è stato fatto tutto apposta, e presto capirete anche del perché.
+
+Comunque, ritornando a noi, la questione del rapporto segnale/rumore è più attuale che mai. Prima ho buttato lì un termine, <em>information overloading</em>, che va meglio analizzato e spiegato, per chi non ha mai guardato o non si è mai interessato a queste cose.
+La traduzione del termine è semplicemente "sovraccarico di informazioni", noto anche come "sovraccarico cognitivo".
+È una cosa abbastanza seria: un disturbo nel quale il cervello è letteralmente oppresso da una tale mole di informazioni che non riesce a compiere una scelta altrimenti facile. Non credo di essere affetto da tale patologia (non sono convinto che il termine sia dei più corretti, tra l'altro), ma non posso fare altro che riconoscere che la strada, o l'ambito della mia "diversità" (anche qua esagero leggermente) sia quello. Probabilmente la sto mettendo giù più dura di quanto in realtà non sia, dopotutto non ho mai sentito la necessità di rivolgermi ad un psic(ologo|hiatra|analista), ma, per meglio dipingere il quadro della situazione, è spesso necessario usare tinte particolarmente fosche.
+E in tal senso non mi sento unico, ma la percepisco piuttosto come una "malattia collettiva".
+Male, molto male, qualcuno direbbe.
+
+Dicevo, del rapporto segnale/rumore, che è una delle questioni più attuali e spinose: la vita odierna ci inonda e ci devasta di informazioni. Sappiamo molto di più di quello che ci serve o che ci interessa, ed è sempre più difficile, e stancante, riuscire a fare una cernita, riuscire a distinguere, cosa davvero ci serva, ci sia utile, ci interessi.
+E sempre più spesso, troppo spesso, stiamo a guardare alla quantità, disinteressandoci completamente della qualità. Un esempio lo sono le moderne piattaforme di comunicazione. 140 caratteri, la lunghezza di un sms, è lo spazio che abbiamo per poter dire quel che dobbiamo dire. E se non ci sta nello spazio che abbiamo a disposizione?
+Qua si aprono due strade: una e quella della <strong>sintesi</strong>, intesa come processo intellettuale, l'altra è quella dell'omissione. Il confine fra le due è molto labile, e sono convinto che il mio discorso non sia completamente a prova di confutazione, ma si può riassumere in una dicotomia fra pensiero e non pensiero. La prima, la sintesi, è chiaramente buona, mentre la seconda, ahimè più frequente, terribile.
+
+E la società moderna si sta evolvendo verso il paradigma dell'omissione. Spesso, sempre più spesso, le notizie sono vaghe e frammentate, sono dei <em>flash</em>, perché dobbiamo sempre procedere, sempre andare avanti, non c'è tempo per riflettere e pensare!  Forza, più veloci con quelle informazioni che qua sono ben 10 secondi che il cervello non viene stimolato!
+
+A dirla tutta, il cervello di tutti questi stimoli ne farebbe anche a meno. Una volta, il ritmo era più tranquillo, ma andava tutto bene lo stesso. Effettivamente stiamo tornando nel discorso del "<em>si stava meglio quando si stava peggio</em>", e non è propriamente la mia intenzione.
+
+Nota a margine: proprio oggi è l'anniversario della morte della Bob, Mina, Paola, comunque la vogliate chiamare. E proprio a lei è dedicato questo mio articolo. So che approverebbe, che in fondo le cose che ho detto e sto per dire sono un po' anche merito suo, di quello che mi ha insegnato. Riposa in pace e ricordati che qualcosa di te è rimasto e rimarrà sempre. Quale gioia è più grande?
+
+E quindi, ritornando a noi, cosa ci resta da fare?
+
+La risposta, paradossalmente, arriva da molto lontano, dalle radici stesse della nostra cultura occidentale: dal mondo latino. Già il grande filosofo Seneca, nel suo <em>De brevitate vitae</em> (sulla brevità della vita) esprimeva perfettamente il concetto di riappropriarsi del proprio tempo, seppur in un ottica diversa (dopotutto non mi pare che a quei tempi si potesse parlare di <em>information overloading</em> :)). Sembra paradossale che la soluzione a un problema quantomai moderno possa venire da parole proferite migliaia di anni fa, ma come ben sa il mio babbo, i romani erano questo ed altro! Ah, questi romani!
+
+Facezie a parte, il discorso è davvero semplice: riappropriarsi del proprio tempo, ovvero dare il giusto peso alle cose, capire il loro senso più vero, infischiandosene del turbinio e della frenesia degli eventi moderni. Proprio come diceva Seneca.
+
+E allora mi avvio verso la conclusione di questo lungo pensiero, spiegando come mai all'inizio ho parlato di iPad, dal momento che da tutto queste parole appena proferite, uno potrebbe supporre una dura critica della modernità che ci fa perdere il vero senso delle cose. Tutto giusto, non temete! presto questi discorsi così apparentemente attorcigliati si sbroglieranno, e tutto sarà più chiaro.
+
+L'iPad, e per estensione il <em>tablet </em>computer in generale, ha portato una novità nel mondo dell'informatica, o, più generalmente, nella nostra società, per un motivo: è andato ad occupare una nicchia di mercato  completamente nuova; anzi, ha creato lui stesso il mercato.
+Questo nuovo mercato può essere a mio avviso interpretato in vari modi, in quanto a mobilità (anche se in realtà, in questo ambito la fanno da padrone gli <em>smartphones</em>), intesa come possibilità di essere connesso ovunque tu sia, e ivi di poter accedere ai tuoi dati e alle tue cose.
+
+Può certamente essere visto in una cattiva luce, ripensando al discorso di prima: non ti liberi mai veramente della frenesia del giorno d'oggi. A mio avviso, però, c'è un altro aspetto (ahimè meno forte del precedente) che viene poco considerato: l'iPad e un'ottima piattaforma di fruizione (e di scrittura, dato che tutto questo è stato scritto proprio con l'iPad!). È già da un paio di mesi che ho smesso di leggere libri cartacei e mi sono cimentato ad una lettura quotidiana su questo supporto, e devo dire che mi trovo piuttosto bene (ma ora non devo divagare, quindi magari la storia la racconto un'altra volta, se mi ricordo :)).
+
+E allora, quando ho scoperto <em><a title="Instapaper" href="http://www.instapaper.com/">Instapaper</a></em>, ho avuto un'illuminazione, da cui questo saggio (si potrà definire tale?).
+Lo conoscevo già, ma non mi era mai sembrato una cosa così interessante.
+Ma spiego subito, dal momento che, ne sono certo, in pochi lo conosceranno: si tratta di un'applicazione, o meglio, di un sito internet con anche annessa un'applicazione iPad (4 euro ottimamente spesi, dico sul serio!) che permette di leggere con calma cose salvate e marcate come "<em>read later</em>", ovvero "leggi dopo".
+
+Come concetto è semplicissimo, ed è tutto gratuito di per sè: quante volte capita che leggendo un giornale troviamo un articolo, o comunque una pagina web, e ci diciamo "beh mi piacerebbe leggerla ma non ho tempo-voglia". Troppo spesso. E da qui il discorso di prima, sulla nostra attenzione, sul riappropriarsi del tempo (visto che le cose cominciano a quadrare? :) ).
+
+E allora un servizio come <em>Instapaper </em>può essere utile, estremamente utile, per compiere quest'azione di ripresa del tempo, di giusta valorizzazione delle cose. A patto di dedicarci il giusto tempo, ovviamente. Questo è fondamentale comunque! Non ci sarà mai un'app o un servizio che ti faccia fare le cose giuste, indipendentemente dalla tua volontà!
+
+E così segnare qualcosa come da "leggere dopo" può rivelarsi una cosa interessante e piacevole; l'applicazione iPad, ad esempio, è perfetta dal punto di vista tipografico: scegli <em>font</em>, dimensione, colore, larghezza, impaginazione, e quant'altro, in maniera super-semplice. Non resta altro che trovare il giusto tempo (e tempo è la parola chiave, ancora una volta) in cui dedicarsi ad una approfondita e concentrata lettura delle cose prescelte.
+
+E anche senza connessione internet. E questa cosa la ritengo decisamente un valore aggiunto: senza internet, tu e la tua periferica isolati dal resto del mondo (virtuale). Quale occasione migliore per concentrarsi e non pensare a nient'altro?
+
+A proposito del servizio, ometto qua tutto il discorso che si potrebbe fare sul sistema di raccomandazioni ad amici di cose interessanti da leggere, però cito un'interessante funzionalità (che richiede la connessione, anche se solo per un breve lasso di tempo, per poter recuperare il materiale): se non sai cosa leggere, puoi farti consigliare direttamente da <em>Instapaper</em>, che fornisce un elenco di saggi e analisi "in dettaglio" (essenziale far capire che non si tratta di letture brevi, ma tutte sulla ventina di minuti, grossomodo).
+Ho avuto modo di trovarne un paio, e sono rimasto semplicemente affascinato.
+
+La lettura del primo è avvenuta venerdì in treno, mentre l'altra ieri, sdraiato sul letto in una pausa dallo studio della fisica matematica. Per il <a href="http://www.theatlantic.com/magazine/print/1969/12/north-korea-8217-s-digital-underground/8414">primo</a>, si trattava di un articolo sullo stato della tecnologia nella Corea del Nord, mentre <a href="http://www.menshealth.com/print/22518">l'altro </a>era un semplice saggio di una persona dello spettacolo che descriveva (brillantemente) la sua esperienza con una disavventura medica come un colpo apoplettico (ok, detta così può sembrare una roba noiosa o chissà cosa, ma anche esperienze così terribili, raccontate dalle persone che ci sanno fare, sono frammenti di vita estremamente interessanti).
+
+Tutto questo per dire che, se usato bene, <em>Instapaper </em>può essere un'ottima alternativa all'ormai dimenticato (nel senso che i giornali cartacei ormai non vengono letti approfonditamente da nessuno) articolo di giornale ragionato e approfondito, che aumenta la tua cultura oltre che intrattenere. Sì, anche in questo caso si può parlare di intrattenimento, ed è un pochino quello che mi sarebbe piaciuto fare anche con questo mio articolo, anche se non ho la più pallida idea se io sia riuscito o meno nel mio intento.
+
+Se non altro, scrivere con iPad e non al computer, limitando quindi le mie distrazioni (internet c'è, e si è rivelato estremamente utile per parlare di Seneca, ad esempio) è stato un bel momento,  anche solo per la gioia dovuta appunto allo scrivere con questo strumento che sembra ancora un po' futuristico. Comunque,  che fatica! Nonostante sia perfettamente allenato a scrivere al computer e riesca a scrivere con la tastiera touch dell'iPad a velocità praticamente identica a quella fisica (velocità alta, quindi), e, nonostante ci sia il correttore ortografico abilitato, si è rivelata una discreta impresa..soprattutto per tutte quelle volte che anziché premere "m" e "n" ho involontariamente premuto la barra spaziatrice, e viceversa. Ma è questione di abitudine, no?
+
+Quindi sono particolarmente soddisfatto: un po' perché sono finalmente riuscito a dire qualcosa che mi pare sensato, qualcosa per cui mi sono preso tutto il tempo che volevo (ci ho messo 3 ore? 4? Non ne ho idea), qualcosa di cui valeva la pena scrivere. Qualcosa che mi esalta per il suo contenuto (mi esalto molto quando trovo un'applicazione a mia misura) e per la sua forma. Qualcosa che mi ha fatto riflettere, perché, come necessaria appendice a tutto il discorso fatto prima sul tempo sprecato etc., è d'uopo rimarcare come ormai si rifletta sempre di meno; e quale modo migliore per ragionare del cercare di tradurre i propri pensieri e le proprie emozioni in periodi e frasi sensate? Scrivere, com'è ben noto, è per l'appunto un ottimo esercizio di pensiero.
+
+E così spero di avervi fatto riflettere, divertire, o semplicemente stare un quarto d'ora in serenità.
+
+Con affetto e simpatia.

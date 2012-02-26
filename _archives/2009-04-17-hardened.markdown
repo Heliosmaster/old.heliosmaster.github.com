@@ -1,0 +1,11 @@
+---
+layout: post
+title: Hardened
+wordpress_id: 1444
+wordpress_url: http://blog.andvari.it/2009/04/17/hardened/
+tags: italiano
+date: 2009-04-17 08:32:08.000000000 +02:00
+---
+<a title="Hardened by Heliøs, on Flickr" href="http://www.flickr.com/photos/helios89/3449786192/"><img src="http://farm4.static.flickr.com/3344/3449786192_645d3533a8_b.jpg" alt="Hardened" width="447" height="306" /></a>
+
+Io non lo so, ma spero tanto che i felici possessori della mia bicicletta, abbiano un sacco di mal di pancia, ora. Che duri dieci anni, come minimo.

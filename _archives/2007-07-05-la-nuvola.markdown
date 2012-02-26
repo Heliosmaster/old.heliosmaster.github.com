@@ -1,0 +1,22 @@
+---
+layout: post
+title: La nuvola
+wordpress_id: 208
+wordpress_url: http://blog.andvari.it/2007/07/05/la-nuvola/
+tags: italiano
+date: 2007-07-05 13:04:55.000000000 +02:00
+---
+
+<blockquote>Io sono la figlia della Terra e dell'acqua,
+la pupilla del Cielo;
+passo attraverso i pori del mare e delle rive; mi trasformo,
+ma non posso morire -
+giacché dopo la pioggia, quando senza una macchina
+il padiglione del Cielo è nudo,
+e i venti e il sole, coi suoi raggi dai convessi bagliori;
+fanno l'azzurra cupola dell'aria -
+io silenziosamente rido del mio cenotafio,
+e dalle grotte della pioggia,
+come un bimbo in grembo, come uno spettro dalla tomba,
+risorgo, e lo ridisfo ancora</blockquote>
+<strong>Percy Bysshe Shelley</strong>

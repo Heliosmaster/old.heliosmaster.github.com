@@ -1,0 +1,13 @@
+---
+layout: post
+title: Due dita
+wordpress_id: 1477
+wordpress_url: http://blog.andvari.it/?p=1477
+tags: italiano
+date: 2009-05-19 16:24:04.000000000 +02:00
+---
+Io non lo so, ma mi pare una cosa oggettivamente fichissima che da quando ho aggiornato a Ubuntu Jaunty il mio pc si comporti in maniera un po' più fica.
+
+Cioè il fatto che se uso il touchpad con due dita e muovo su e giù è come se usassi una rotellina. Fa figo perché nessuno gliel'ha chiesto ma non posso più farne a meno.
+
+E fa anche molto mac, sarà anche per questo.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: openSUSE
+wordpress_id: 819
+wordpress_url: http://blog.andvari.it/?p=819
+tags: italiano
+date: 2006-04-27 15:18:01.000000000 +02:00
+---
+Dovrei installarlo..però ho un po' di paura per le partizioni... vediamo se <a href="http://shots.osdir.com">osdir </a>mi aiuta ;)

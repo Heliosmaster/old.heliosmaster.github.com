@@ -1,0 +1,27 @@
+---
+layout: post
+title: Tigna
+wordpress_id: 1807
+wordpress_url: http://blog.andvari.it/?p=1807
+tags: italiano
+date: 2010-09-14 13:12:37.000000000 +02:00
+---
+Qua in romagna abbiamo una parola adatta a quello che sto provando ora: tigna. No, non intendo quella cosa che potete benissimo trovare su Google, ma quello stato d'animo in cui tutto va male ed è sull'orlo di andare peggio. Quando si è nervosi, incazzati, e il mondo attorno a te fa andare le cose dalla parte sbagliata.
+
+Ecco, ho la tigna.
+
+Perché è finalmente arrivata la custodia dell'iPad che ho comprato ieri dall'Apple Store (per quanto riguarda il servizio, 24 ore è fantastico). Il prodotto?
+
+Una vera merda. (Scusate i toni, ma quando ci vuole ci vuole). Il materiale fa schifo, non si chiude bene, i bordi sporgono e danno fastidio e fa così tanto attrito che ci vogliono due persone per sfilare l'iPad fuori da questa custodia.
+
+Ho seriamente pensato di dargli fuoco, una volta realizzato che era una vera schifezza. Tra l'altro è costata la bellezza di 48 euro (spedizione compresa)... Io mi sono fidato perché era Apple e finora i prodotti Apple li ho trovati di qualità (perlomeno per quanto riguarda l'hardware). Ma ho evidentemente sbagliato.
+
+Il mio iPad ha resistito 10 minuti dentro quella schifezza di custodia, poi l'ho liberato e mi sono sentito un po' come Martin Luther King. (Che adesso si rivolta nella tomba, se per caso mi legge)
+
+Poi, come se non bastasse, anche la rete ha cominciato a fare le bizze. Navigo un po' su internet e non carica pollycoke, techcrunch, tumblr, e così via. Google sì.
+
+Riavvia il router un paio di volte e la situazione non migliora, anzi! E allora ho cambiato i DNS da 4.2.2.2 e 4.2.2.6 a 8.8.8.8 e 8.8.8.4, cioè quelli di Google.
+
+E mi dispiace, perché quei DNS mi hanno servito egregiamente in passato.
+
+E adesso, nel frattempo, potrei pensare anche a FoolDNS (OpenDNS no per principio, dati i miei trascorsi). Aspetto che finisca namebench, così posso dire quale DNS è più performante per . (Spero che il programma non sia <em>biased)</em>

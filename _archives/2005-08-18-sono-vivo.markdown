@@ -1,0 +1,9 @@
+---
+layout: post
+title: Sono vivo!
+wordpress_id: 534
+wordpress_url: http://blog.andvari.it/?p=534
+tags: italiano
+date: 2005-08-18 16:54:14.000000000 +02:00
+---
+ciao ragazzi...ne è passato di tempo...vabbè volevo comunque farvi sapere che sono vivo...a presto!

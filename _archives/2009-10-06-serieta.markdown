@@ -1,0 +1,13 @@
+---
+layout: post
+title: Serietà
+wordpress_id: 1610
+wordpress_url: http://blog.andvari.it/?p=1610
+tags: italiano
+date: 2009-10-06 08:35:06.000000000 +02:00
+---
+Certo che uno ad avere Firefox, a volte, ha proprio l'impressione che si tratti di un browser serio.
+
+Come quando ti dice "stai attento perché questo sito è sospetto", e si tratta di una pagina della mozilla foundation (una pagina con il certificato scaduto). Non so, ha un che di ironico.
+
+Come se Internet Explorer sognasse di dirti che Microsoft vuole soldi soldi e soldi :P figuramose.

@@ -1,0 +1,11 @@
+---
+layout: post
+title: Arrr
+wordpress_id: 34
+wordpress_url: http://blog.andvari.it/2007/09/19/arrr/
+tags: italiano
+date: 2007-09-19 14:41:58.000000000 +02:00
+---
+Oggi è il "talk like a pirate" day.
+
+Arrr a tutti :P

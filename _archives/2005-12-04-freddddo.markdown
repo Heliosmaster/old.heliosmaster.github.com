@@ -1,0 +1,13 @@
+---
+layout: post
+title: Freddddo
+wordpress_id: 605
+wordpress_url: http://blog.andvari.it/?p=605
+tags: italiano
+date: 2005-12-04 19:36:39.000000000 +01:00
+---
+Come non detto...oggi il freddo è tornato e non mi sto riferendo ai 7°C che ci sono qua fuori dalla porta. Ho passato tutta la giornata senza sapere che fare...
+Sono veramente tristi queste giornate, ma soprattutto queste serate passate a non far nulla come quelle di ieri sera. Beh..non so che dire...
+
+
+Ieri sera ho installato il firefox 1.5. Mi sono subito preso un colpo la metà delle estensioni non andava, compreso chatzilla. Stamattina sono riuscito a farle partire..

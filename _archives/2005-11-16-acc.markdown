@@ -1,0 +1,9 @@
+---
+layout: post
+title: Acc!
+wordpress_id: 594
+wordpress_url: http://blog.andvari.it/?p=594
+tags: italiano
+date: 2005-11-16 22:45:28.000000000 +01:00
+---
+Ma porca paletta è qualche giorno che sto veramente male fisicamente...

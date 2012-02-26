@@ -1,0 +1,21 @@
+---
+layout: post
+title: Finestre
+wordpress_id: 1683
+wordpress_url: http://blog.andvari.it/?p=1683
+tags: italiano
+date: 2010-02-22 10:05:46.000000000 +01:00
+---
+Chissà l'effetto che deve fare ad un inglese: "Dai su accendi Finestre e loggati su <a href="http://www.facebook.com">Faccialibro</a>. Dopo fammi un po' vedere le mie partite di scacchi su <a href="http://www.gameknot.com">gioconodo</a>. E devo controllare gli aggiornamenti di <a href="http://eu.battle.net">battaglianet</a>."
+
+Ok in effetti suona davvero strano.
+
+E questa discussione è fondamentalmente la stessa che ha coinvolto la comunità italiana sul forum di SC2 (il grande e attesissimo SC2, per cui voglio una beta key <strong>assolutamente</strong>!), riguardo alla traduzione delle unità.
+
+Che non è mica una roba banale, se ci pensiamo. Perché un gioco come StarCraft ha i nomi delle unità abbastanza pittoreschi, per un inglese. E infatti quando sono andati a tradurre i nomi per la localizzazione in italiano, c'è il portastormo, la blatta (che manco sapevo cosa fosse), qualcosa inerente alle faluche. E il vichingo credo.
+
+Mah.
+
+Comunque questa era solo una riflessione introduttiva, per dire che ieri ho aggiornato questo pc dal quale scrivo a Windows 7. Per ora non mi ha particolarmente deluso (a parte il fatto di essere un Finestre e non un Linux), poi si vedrà.
+
+(Sì, non ho rinunciato al pinguino, non temete!)

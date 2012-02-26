@@ -1,0 +1,19 @@
+---
+layout: post
+title: I 3 ministri
+wordpress_id: 1193
+wordpress_url: http://blog.andvari.it/?p=1193
+tags: italiano
+date: 2008-10-01 09:54:12.000000000 +02:00
+---
+Lo so che sto postando poco, ma come potrete benissimo immaginare, il tempo non è tantissimo (nonostante faccia 15 ore a settimana) e soprattutto la voglia è ai minimi storici. Vedremo come va.
+
+Ora volevo riportare un piccolo problemino che mi sono trovato a dover risolvere come esercizio di logica:
+<blockquote>(Dimostrazione per assurdo). Da una favola orientale:
+Per scegliere un ministro tra 3 candidati, un re procede come segue: sulla schiena di ogni candidato appende un pezzo di stoffa. Nessun candidato può vedere il proprio pezzo di stoffa, ma vede quello degli altri. I candidati sanno che i pezzi di stoffa sono stati scelti tra 3 di colore nero e 2 di colore bianco. Il primo a dire di che colore è il suo pezzo di stoffa sarà ministro main caso di risposta sbagliata, verrà ucciso. Uno dei candidati, vedendo che i suoi due concorrenti hanno un pezzo di stoffa nero e vedendo che non dicono niente, dopo un po' afferma con sicurezza: "ho un pezzo di stoffa nera" e così diventò ministro (bei tempi!)
+<ol>
+	<li>Esplicitare il suo ragionamento</li>
+	<li>Per non favorire nessuno come deve il re disporre i pezzi di stoffa?</li>
+</ol>
+</blockquote>
+Io una dimostrazione l'avrei trovata, ma non voglio rivelarla subito per non rovinare il giochino. Poi magari invece ho trovato solo una sciocchezza. Ma proviamo. :)

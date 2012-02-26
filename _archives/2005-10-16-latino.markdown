@@ -1,0 +1,9 @@
+---
+layout: post
+title: Latino
+wordpress_id: 575
+wordpress_url: http://blog.andvari.it/?p=575
+tags: italiano
+date: 2005-10-16 12:03:04.000000000 +02:00
+---
+E mi ritrovo a fare latino... <img src="http://helios.splinder.com/editor/fck/editor/images/smiley/rhymbox-1.0/ogre.gif" alt="" />

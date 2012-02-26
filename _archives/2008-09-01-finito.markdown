@@ -1,0 +1,19 @@
+---
+layout: post
+title: Finito
+wordpress_id: 1131
+wordpress_url: http://blog.andvari.it/?p=1131
+tags: italiano
+date: 2008-09-01 12:48:27.000000000 +02:00
+---
+Non ci credo. Ho finito. Ho finito di importare i post dal vecchio blog (http://www.frieda.it/helios/)
+
+Ho cominciato il giorno che ho cambiato in blog.andvari.it, ovvero, se non ricordo male, verso l'inizio di ottobre 2007, ovvero <strong>undici</strong> mesi fa.
+
+A mano, uno per uno, i post sono stati importati (insieme ai commenti) ed ho preservato le categorie, la data / ora di inserimento, i commenti (questi senza data/ora, altrimenti sarebbe stato un suicidio).
+
+Ho dovuto fare così perché non avevo accesso direttamente al database mysql, del quale invece dispongo adesso.
+
+Ah, tra parentesi, ho importato anche i post dei vecchissimi blog, come avevo già detto altrove, e mi fa un gran ridere vedere come ero <em>bimbominkia</em>.
+
+<em>C'est la vie</em>.

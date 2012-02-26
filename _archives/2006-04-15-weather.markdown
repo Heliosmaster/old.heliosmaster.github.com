@@ -1,0 +1,9 @@
+---
+layout: post
+title: Weather?
+wordpress_id: 472
+wordpress_url: http://blog.andvari.it/?p=472
+tags: italiano
+date: 2006-04-15 22:12:56.000000000 +02:00
+---
+Ieri mentre scrivevo il post precedente mi sono dilettato anche a fare un po' di modifiche tecniche al blog..ne sono soddisfatto..se riuscissi a tradurre il tempo a lato sarei ancora + contento..ci stiamo attrezzando :P
