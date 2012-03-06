@@ -1,6 +1,7 @@
 permalink: pretty
 exclude: [".rvmrc", "README.md", "Rakefile"]
 pygments: true
+markdown: rdiscount
 auto: true
 google-analytics: 'UA-4544599-4'
 name: "Davide's blog"
