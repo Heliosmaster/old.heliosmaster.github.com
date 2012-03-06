@@ -4,7 +4,7 @@ title: "Visualizing commits"
 tags: english
 ---
 
-The recent (let's say the last few months/years) boom of infographics is the proof that data visualization has become more and more important, and it is a useful tool to gain more insights.
+The recent boom of infographics is the proof that data visualization has become more and more important, and it is a useful tool to gain more insights.
 
 Today, due to the launch of the revamped [Basecamp](http://basecamp.com/), and in particular to [its announcement](http://37signals.com/svn/posts/3128-basecamp-next-in-phases-and-flow) in 37signal's company blog, "Signal vs Noise", I discovered a fun tool to visualize data (namely, commits): **gource** (I guess that its name comes from _graphical source_ or something like that).
 
