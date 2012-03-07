@@ -31,7 +31,5 @@ Let us suppose (pardon my mathematical language, I deal with it every day) that 
 3. Just search for Sublime Text in the Gnome 3 Shell and pin it to "favorites".
 4. Profit (not really).
 
-{{site.base_path}}
-
 
 
