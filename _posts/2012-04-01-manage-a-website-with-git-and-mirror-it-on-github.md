@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Manage a website with git and mirror it on GitHub"
-tags: 
+tags: english
 ---
 
 ## DreamHost and the issue with cloning
