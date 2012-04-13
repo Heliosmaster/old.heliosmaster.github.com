@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Statistiche, reprisal"
-tags: 
+tags: italiano
 ---
 
 Nel mio [vecchio blog](http://blog.andvari.it) un bel po' di tempo fa, avevo l'abitudine di raccontare ai miei 2-3 lettori le chiavi di ricerca più assurde usate da persone capitate (inspiegabilmente, nella maggior parte dei casi) sul mio sito da Google. Alcuni esempi sono questi: [uno](http://blog.andvari.it/2010/06/19/uno-sguardo-alle-statistiche/), [due](http://blog.andvari.it/2010/12/17/uno-sguardo-alle-statistiche2/) e [tre](http://blog.andvari.it/2011/01/28/uno-sguardo-alle-statistiche-3-bonus/).
