@@ -34,7 +34,7 @@ Comunque, mi sa che aggiungerò questa pagina fra i `robots.txt`, per far sì ch
 * **come capire se presentazione fatta con beamer **: se è piacevole alla vista, è fatta con beamer, altrimenti è powerpoint
 * **come oso aprire una pista di pattinagio sul ghiacio**: (sic). COME OSI? VERGOGNATI!
 * **come si mette le nuvolette su youtube**: eh?
-* **come si trovano le specialistiche all'estero**: <http**://mastersportal.eu>
+* **come si trovano le specialistiche all'estero**: <http://mastersportal.eu>
 * **cotton fioc incastrato nell orecchio / cotton fioc nell'orecchio incastrato / cotton fioc rimasto nell orecchio **: a certa gente dovrebbero togliere l'abilitazione a usare cotton-fioc.
 * **cotton fiocc nel culo **: ma usarlo come quelli sopra, no?
 * **di cosa fatte nuvole torrent**: il torrent è fatto d'acq, così proprio come le nuvol
