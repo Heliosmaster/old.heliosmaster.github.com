@@ -3,11 +3,18 @@ layout: default
 title: About
 ---
 
-Hi. I am [Davide "Helios" Taviani](http://davidetaviani.com).
+## About me ##
+Hi, I am Davide, a mathematics student at Utrecht University and hopeless geek.
 
-I've had a blog since 2005, more or less. During all these years of using Wordpress (mostly) I grow tired of the unnecessary structure: database? themes? plugins? users & permissions? meh. However, the prospect of writing custom static html pages by hand each time I want to post something, was not exactly an appealing alternative. And then [Jekyll](https://github.com/mojombo/jekyll).
+I haven't done much [until now](http://dl.dropbox.com/u/958311/cv_Davide.pdf), and I much more excited for what has yet to come.
 
-### Tech stuff ###
+I also have a italian website, [Andvari](http://www.andvari.it).
+
+## About this blog ##
+
+Sometimes I blog in [english]({{site.url}}/archives_en/) (especially If I want to share something more technical), and sometime I _rant_ in [italian]({{site.url}}/archives_it/).
+
+Before February 2012 (roughly), I used to write everything (in italian) on another blog, [Il Sognatore di Nuvole](http://blog.andvari.it).
 
 The theme is based on [Tom Ward's blog](https://github.com/tomafro/tomafro.net) after the necessary tinkering.
 
