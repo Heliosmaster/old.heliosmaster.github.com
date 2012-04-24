@@ -5,6 +5,5 @@ markdown: rdiscount
 auto: true
 google-analytics: 'UA-4544599-4'
 name: "Davide's blog"
-base_path: 'http://davidetaviani.com' # http://localhost:4000'#'http://bits.andvari.it'
 #lsi: true
 paginate: 5

@@ -4,8 +4,8 @@ title: Archives
 ---
 
 <div style="float:right">
-<a href="{{ site.base_path}}/archives_it" title="archivi in italiano" ><img src="{{ site.base_path}}/images/it.png" height="25px" alt="archivi in italiano" /></a>
-<a href="{{ site.base_path}}/archives_en" title="english archives"><img src="{{ site.base_path}}/images/en.png" height="25px" alt="english archives" /></a>
+<a href="{{ site.url}}/archives_it" title="archivi in italiano" ><img src="{{ site.url}}/images/it.png" height="25px" alt="archivi in italiano" /></a>
+<a href="{{ site.url}}/archives_en" title="english archives"><img src="{{ site.url}}/images/en.png" height="25px" alt="english archives" /></a>
 </div>
 
 <div id="home">

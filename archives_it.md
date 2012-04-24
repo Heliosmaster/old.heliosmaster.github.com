@@ -4,7 +4,7 @@ title: Archivi in italiano
 ---
 
 <div id="home">
-  <h1>Archivi in italiano <img src="{{site.base_path}}/images/it.png" height="30px" style="padding-left:20px" alt="archivi in italiano" /></h1>
+  <h1>Archivi in italiano <img src="{{site.url}}/images/it.png" height="30px" style="padding-left:20px" alt="archivi in italiano" /></h1>
     {% for post in site.tags.italiano %}
       {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}

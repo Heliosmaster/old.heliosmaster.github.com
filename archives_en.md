@@ -5,7 +5,7 @@ title: English post archives
 
 
 <div id="home">
-  <h1>English Archives  <img src="{{site.base_path}}/images/en.png" height="30px" style="padding-left:20px" alt="english archives" /></h1>
+  <h1>English Archives  <img src="{{site.url}}/images/en.png" height="30px" style="padding-left:20px" alt="english archives" /></h1>
     {% for post in site.tags.english %}
       {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
