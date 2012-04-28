@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Re-encode a website into UTF 8"
+title: "Re-encode a website into UTF-8"
 tags: english
 ---
 
