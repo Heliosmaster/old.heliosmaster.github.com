@@ -8,7 +8,7 @@ Over at [Bifrost.it](http://bifrost.it), we care much about using the right char
 
 So, it is quite understandable (actually, I can't find a better example where this should be applied to), that every HTML page of the site has to be encoded in UTF-8. 
 
-Unluckily, until a few days ago, it was not the case: mostly because the building of that pages is done under Windows (with FrontPage (sic)), the encoding were a mixed of ISO-8859-1 and Windows-1252 (which showed up as `unknown-8bit`.
+Unluckily, until a few days ago, it was not the case: mostly because the building of that pages is done under Windows (with FrontPage (sic)), the encoding were a mixed of ISO-8859-1 and Windows-1252 (which showed up as `unknown-8bit`).
 
 So, we needed to do the following:
 
