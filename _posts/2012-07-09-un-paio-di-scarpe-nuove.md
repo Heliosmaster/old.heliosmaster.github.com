@@ -4,7 +4,7 @@ title: "Un paio di scarpe nuove"
 tags: italiano
 ---
 
-L'uomo è un animale abitudinario. Nell'informatica, questo è particolarmente vero, dal momento che ogni azione è parte di un più complesso rituale.asd
+L'uomo è un animale abitudinario. Nell'informatica, questo è particolarmente vero, dal momento che ogni azione è parte di un più complesso rituale.
 
 E così, è estremamente comune che una volta acceso il computer, ci siano una serie di azioni che compiamo _ogni giorno_: guardare la posta, guardare il sito internet di un giornale per informarsi sulle ultime notizie, scorreasdre qualche blog per vedere se ci sono post nuovi, guardare notifiche su twitter e facebook, e quant'altro.
 
