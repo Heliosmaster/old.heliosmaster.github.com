@@ -18,7 +18,7 @@ article {
 }
 
 #container {
-	width: 50em;
+	width: 60em;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -48,7 +48,7 @@ article {
   padding-top: 0.3em;
 }
 
-#footer {
+footer, #footer {
   margin-top: 3em;
   padding-bottom: 0.3em;
 }
@@ -165,8 +165,11 @@ pre {
   -moz-border-radius: 0.3em;
   -webkit-border-radius: 0.3em;
   padding: 0.6em;
-  color:white;
 }
+
+code {
+  color:white;
+  }
 		
 .related {
   padding-top: 1em;
