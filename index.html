@@ -3,7 +3,7 @@ layout: default
 title: Davide's Blog
 ---
 <div id="home">
-{% for post in paginator.posts %}
+{% for post in site.posts limit:1 %}
   <article>
     <header><h1><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1></header>
   
@@ -21,27 +21,17 @@ title: Davide's Blog
 {% endfor %}
 </div>
 
+<div>
+	<h3>Older posts:</h3> 
+	{% for post in site.posts %}
+		{% unless forloop.first %}
+	
+		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endunless %}
+        {% endfor %}
+</div>
 <footer>
-  <div class="pagination">
-      <ul>
-      {% if paginator.next_page %}
-        <li class="prev">  <a href="/page{{ paginator.next_page }}/" title="{{ page.previous.title }}">&larr; Older</a></li>
-      {% else %}
-        <li class="prev disabled"><a>&larr; Older</a></li>
-      {% endif %}  
-        
-  
-      <li style="padding: 0 14px 0 14px;border-right:1px solid;border-right-color:#ddd;border-right-color:rgba(0, 0, 0, 0.15);*border-right-color:#ddd;">Page {{paginator.page}} of {{paginator.total_pages}}</li>
-      
-       {% if paginator.previous_page %}
-        <li class="next"><a href="/page{{ paginator.previous_page }}" title="{{ page.next.title }}">Newer &rarr;</a></li>
-      {% else %}
-        <li class="next disabled"><a>Newer &rarr;</a>
-      {% endif %}
-      
-      
 
-      
-      </ul>
-    </div>
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">© 2012 <a xmlns:cc="http://creativecommons.org/ns#" href="http://davidetaviani.com" property="cc:attributionName" rel="cc:attributionURL">Davide Taviani</a>. Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/3.0/">Creative Commons Attribution-NoDerivs 3.0 Unported License</a>.
+
 </footer>
