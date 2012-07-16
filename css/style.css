@@ -243,3 +243,17 @@ pre code {
 .noticebox p{
   margin:2px;
 }
+.left {
+	width:50%;
+	float:left;
+	padding-right:10px;
+}
+.left h2, .right h2{
+	border-bottom:0px;
+}
+.right {
+	width:50%;
+	float:right;
+	border-left: 1px solid #DDD;
+	padding-left:10px;
+}
