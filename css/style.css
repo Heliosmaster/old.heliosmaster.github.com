@@ -30,7 +30,7 @@ article {
 .menubar {
   color: #aaa;
   line-height: 1.3em;
-  margin-top: 0;
+  margin-top: 10px;
   padding-top: 0;
 }
 
@@ -228,6 +228,11 @@ pre code {
 #social{
   float:right;
 }
+#social a{
+  font-family:'IcoMoon';
+  font-size:1.7em;
+  margin-right:5px;
+}
 .noticebox{
   position:fixed;
   top:50px;
@@ -256,4 +261,14 @@ pre code {
 	float:right;
 	border-left: 1px solid #DDD;
 	padding-left:10px;
+}
+@font-face {
+	font-family: 'IcoMoon';
+	src: url('../fonts/IcoMoon.eot');
+	src: url('../fonts/IcoMoon.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/IcoMoon.svg#IcoMoon') format('svg'),
+		url('../fonts/IcoMoon.woff') format('woff'),
+		url('../fonts/IcoMoon.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
 }
