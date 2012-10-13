@@ -34,3 +34,5 @@ E questo è quello che dovrebbe un po' spaventarci, ma più che altro farci fare
 Come ho detto si tratta sempre e comunque di un compromesso: dobbiamo chiederci __cosa__ vale la pena. C'è qualcosa a cui possiamo tranquillamente rinunciare? Un altro discorso, che prima o poi farò, è il fatto che in realtà potremmo rinunciare a quasi tutto e riprenderci in mano il nostro tempo seriamente. E scollegati dal web.
 
 E peccato che cose come Diaspora muoiano. Abbiamo bisogno di strumenti __degli__ (nel senso di possessione e controllo) utenti. Prima che sia troppo tardi (suono fatalista, ma leggetevi un po' di letteratura distopica, da Orwell a Huxley, tanto per dire).
+
+**Update**: Questa mattina ho ricevuto una mail da Google nella quale mi si ricorda che il mio cellulare sta inviando loro i dati relativi alla mia posizione, chiedendomi se io sia davvero sicuro di volerlo, altrimenti la disattivazione risulta semplice. Ecco, questo è il genere di atteggiamento che mi fa pensare che non siano evil, sotto sotto. Speriamo.
