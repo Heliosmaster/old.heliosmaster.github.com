@@ -4,6 +4,6 @@ pygments: true
 markdown: rdiscount
 auto: true
 google-analytics: 'UA-4544599-4'
-name: "Davide's blog"
+name: "Davide's thoughts"
 #lsi: true
 paginate: 5

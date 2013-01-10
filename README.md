@@ -1,3 +1,3 @@
-# Davide's Blog
+# Davide's thoughts 
 
-This Github project is simply my blog, which uses Jekyll+GH Pages.
+This Github project is simply a collection of articles and thought, powered by Jekyll+GH Pages.
