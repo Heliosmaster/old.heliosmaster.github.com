@@ -6,16 +6,20 @@ I hereby claim:
 
   * I am an admin of http://davidetaviani.com
   * I am davide (https://keybase.io/davide) on keybase.
-  * I have a public key with fingerprint A69F 6A4A B256 ADBE 3342  D1E0 8BF1 0214 1E71 40D0
+  * I have a public key with fingerprint F45A 8329 0B03 4310 6C5F  807F 7B03 AA14 4161 2ABB
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.6"
+        },
         "key": {
-            "fingerprint": "a69f6a4ab256adbe3342d1e08bf102141e7140d0",
+            "fingerprint": "f45a83290b0343106c5f807f7b03aa1441612abb",
             "host": "keybase.io",
-            "key_id": "8BF102141E7140D0",
+            "key_id": "7b03aa1441612abb",
             "uid": "6a89436982b8af64c7b1020f73d9f700",
             "username": "davide"
         },
@@ -26,34 +30,39 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1397890593,
+    "ctime": 1436092859,
     "expire_in": 157680000,
-    "prev": "043b06272ac4a4d9248c7c9f8d08b8bd7bf354b3bf6e2a69d234dbbe0c3d0229",
-    "seqno": 4,
+    "prev": "03b586cd951f9fbe77c7e12c6a58507362e1e70f0e62c0eab54bb8456b85b385",
+    "seqno": 15,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.11 (GNU/Linux)
 
-owGbwMvMwMTY/ZFJRK7Q4QLj6QNfkhiCg+QUq5WS8lMqlayqlbJTwVRaZl56alFB
-UWZeiZKVUqKZZZpZoklikpGpWWJKUqqxsYlRimGqgUVSmqGBkaGJYaq5oYlBioGS
-jlJGfjFIB9CYpMTiVL3MfKAYkBOfmQIUtXByg6h3Bal3AakvBUuYJVpYmhibWVoY
-JVkkppmZJJsnARUapJkbp1immRuAFRanFuUl5qYCVacklmWmpCrV6igBxcoyk1NB
-LgZZjCJfAiQT8zL1kvNzgdoLivJL8pPzc4DSGSUlBVYg3SWVBSDl5alJ8VCD4pMy
-81KAXgdqKEstKs7Mz1OyMgSqTC7JBJlsaGxpbmFpYGpprKOUWlGQWZQanwlSYWpu
-ZmEABCBrUsuARhqYGCcZmBmZGyUmmySapFgamVgkmydbplmkAMPMIinFPCnN2NQk
-yTgpzSzVCBi6KUbGJilJSakGycYpBkZGlkogrxXm5StZmQCdmZgONLI4Mz0vsaS0
-COjvTkYZFgZGJgY2ViZQ5DFwcQrAovRWEft/9/7zCl9uqnGb+ZSyuoTsK2JUK+G5
-sXuHTsW5VK6vR2vdX2wUXOXIZ7u9NTdRyP7x4TiNqjwDL67bxslVKvKTeLwTurge
-2D2b1pSU/isro+JMtAPrxQiFbXW8AZ1W10X6a+ImZnifjAsQy75xUbpFV/acnI+l
-wIsbrL+1fN7kpq2rYvo55XBaz+yYc1YLpFcezb5qsK/tSZPb8XDuox9YZ9Q028xj
-1z0wM6Rs8fSTLmdMFDiEgy56lNzkFded+pUtfXFYxvKs7QYPHgZM5ZK4x1kyszVe
-YQf7dGZthdZzbtbO83n1X0ubZy3hNVmUOSlQ6F2ZqNutzB2VgX/USu3fv7i0NyZ7
-ggDz/KMtAA==
-=2eZL
+owGbwMvMwMRYzbxKxDFRazfj6YOmSQyhMzl3Vysl5adUKllVKyXnZKbmlYBYeYm5
+qUpWStmplUmJxal6mfkKefkpqXpZxQpQNTpKZalFxZn5eUBVBnoWemZKtTog5SDN
+aZl56alFBUWZILOU0kxMEy2MjSwNkgyMTYwNDcySTdMsDMzTzIH8xERDExNDM0Oj
+xKQkoJEZ+cUlKLYqgc2Mz0wBimJRXwqWMEu0sDQxNrO0MEqySEwzM0k2TzI0MDJI
+MzdOsUwzNzAAKSxOLYJ6KSWxLDMlFeRaoFhZZnIqyMUgi1HkS4BkYl6mXnJ+LlB7
+QVF+SX5yfg5QOqOkpMAKpLuksgCkvDw1KR5qUHxSZl4K0OvIYWMIVJlckgky2RDo
+RgNLIwtTSx2l1IqCzKLU+EyQClNzMwsDIABZk1oGCk7jJFMLs+QUS1PDNMu0pFRz
+82TzVEOjZLNEUwtTA3NjM6NUw1RzgzSDVDOjZIPUxCRTk6QkCxNTsyQL0yRjC1Ml
+kNcK8/JBZgPdmZgONLM4Mz0vsaS0COjxTiYZFgZGJgY2ViZQ7DNwcQrA0kTxDP7/
+iXNdrB4GmSSvalo5TeectnU0y7KTs53S0iZyXd2rcVhAq+HO5pTGVqGQX5/CgzzO
+8vn/qe9knsQacqhS4c7u+1vWWctZBmlPdDlyfJt2oX3Pvgv1uv+ff+Lxzg7RaZhv
+xWxQ63PX0cTR5sVPMT6z5pDJ76+KuD34Gd/cp3tJdF6ueMzR6YJvpU8euMSWoyXN
+57gofNrx/kWqN7Rqjtmm6tz2P5kkFx//V2zu3oX/1hSdvXk00ijc677yLB2799vW
+sutZKHj9XHfDeeXdNV899k7QFuT8yv1pye6822pRjzbcrzq5ifsDl/V1hps5lhe4
+OmNcIm+WTGc2ETxafznwpbR5lhNvu0HJFuMn97sfms6409LZblM+h2XxbCPBbekT
+et20zFz1rp7qsvrxJO/zBLsL9Q/5l2znaVwsNP9aaObii4u2X3qYe45Bt7H75+vf
+qQ9niAbrGtz75/h82kseAZu/K+6JOIslPVmdvshH2HRt+OKWnLwFa70fiiox37t0
+a+WBaS9Oyr67KWul1/ZcJNW8wCJ17woPHonkZF4jg4Nd155+5dk4L7Z+1SbfkxeX
+f09ltDULtm8zmW4tk/05dt5fyXNnyg6Yvn+/hzucO2bajynzhVW0H8k4LDWxcRPQ
+vxfBmv2bXeWuzPcPvNGrAlkbzz4SbYiX/VRdZmTU/D9zpzXjIfbemeHTFN1m733M
+XBducVnsXnzLKW0A
+=zFSl
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -62,4 +71,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/davide
 
 ==================================================================
-
